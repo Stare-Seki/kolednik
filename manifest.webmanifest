@@ -1,0 +1,19 @@
+{
+  "name": "Kolędnik 2026",
+  "short_name": "Kolędnik",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#174b36",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "id": "./",
+  "lang": "pl"
+}
