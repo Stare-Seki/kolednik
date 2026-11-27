@@ -3,13 +3,17 @@
   "liczba_piosenek": 32,
   "piosenki": [
     {
-      "id": "kol-001",
+      "id": "ss-001",
       "tytul": "A cóż z tą Dzieciną",
       "title": "A cóż z tą Dzieciną",
       "autorzy_i_informacje": [
         "muz. tradycyjne",
-        "sł. tradycyjne"
+        "sł. tradycyjne",
+        "wyk. Martyna Jakubowicz",
+        "a-coz-z-ta-dziecina.mp3"
       ],
+      "tekst": "A cóż z tą Dzieciną będziemy czynili\nPastuszkowie mili, że się nam kwili?\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nPodobno Dzieciątko, że głodne płacze,\nDlatego tak z nami nierade skacze.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nJuż ci nie chce płakać Dziecina dłużej,\nAle ukojone oczęta mruży.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nAlbo Dziecięciu w dudki zagrajmy\nI na piszczałeczkach rozweselajmy.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nPókiż tego będzie? Dość tego dzieci,\nA czemuż nie idzie spać drugi, trzeci?\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać.\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać.",
+      "lyrics": "A cóż z tą Dzieciną będziemy czynili\nPastuszkowie mili, że się nam kwili?\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nPodobno Dzieciątko, że głodne płacze,\nDlatego tak z nami nierade skacze.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nJuż ci nie chce płakać Dziecina dłużej,\nAle ukojone oczęta mruży.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nAlbo Dziecięciu w dudki zagrajmy\nI na piszczałeczkach rozweselajmy.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nPókiż tego będzie? Dość tego dzieci,\nA czemuż nie idzie spać drugi, trzeci?\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać.\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -251,19 +255,19 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "A cóż z tą Dzieciną będziemy czynili\nPastuszkowie mili, że się nam kwili?\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nPodobno Dzieciątko, że głodne płacze,\nDlatego tak z nami nierade skacze.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nJuż ci nie chce płakać Dziecina dłużej,\nAle ukojone oczęta mruży.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nAlbo Dziecięciu w dudki zagrajmy\nI na piszczałeczkach rozweselajmy.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nPókiż tego będzie? Dość tego dzieci,\nA czemuż nie idzie spać drugi, trzeci?\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać.\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać.",
-      "lyrics": "A cóż z tą Dzieciną będziemy czynili\nPastuszkowie mili, że się nam kwili?\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nPodobno Dzieciątko, że głodne płacze,\nDlatego tak z nami nierade skacze.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nJuż ci nie chce płakać Dziecina dłużej,\nAle ukojone oczęta mruży.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nAlbo Dziecięciu w dudki zagrajmy\nI na piszczałeczkach rozweselajmy.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nPókiż tego będzie? Dość tego dzieci,\nA czemuż nie idzie spać drugi, trzeci?\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać.\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać.",
-      "mp3": "a-coz-z-ta-dziecina.mp3"
+      ]
     },
     {
-      "id": "kol-002",
+      "id": "ss-002",
       "tytul": "A wczora z wieczora",
       "title": "A wczora z wieczora",
       "autorzy_i_informacje": [
         "muz. tradycyjne",
-        "sł. tradycyjne"
+        "sł. tradycyjne",
+        "wyk. Enej"
       ],
+      "tekst": "A wczora z wieczora, a wczora z wieczora\nz niebieskiego dwora, z niebieskiego dwora.\nPrzyszła nam nowina, przyszła nam nowina:\nPanna rodzi syna, panna rodzi syna.\nBoga prawdziwego, Boga prawdziwego\nnieogarnionego, nieogarnionego.\nZa wyrokiem Boskim, za wyrokiem Boskim,\nw Betlejem żydowskim, w Betlejem żydowskim.\nPastuszkowie mali, pastuszkowie mali,\nw polu wtenczas spali, w polu wtenczas spali.\nGdy Anioł z północy, gdy Anioł z północy,\nświatłość z nieba toczy, światłość z nieba toczy.\nChwałę oznajmując, chwałę oznajmując,\nszopę pokazując, szopę pokazując.\nChwałę Boga tego, chwałę Boga tego,\ndziś nam zrodzonego, dziś nam zrodzonego.\nTam Panna Dzieciątko, tam Panna Dzieciątko\nmiłe Niemowlątko, miłe Niemowlątko,\nuwija w pieluszki, uwija w pieluszki\npośpieszcie pastuszki, pośpieszcie pastuszki!\nNatychmiast pastuszy, natychmiast pastuszy\nśpieszą z całej duszy, śpieszą z całej duszy.\nWeseli bez miary, Weseli bez miary\nniosą z sobą dary, niosą z sobą dary.\nMądrości druhowie, mądrości druhowie\nz daleka królowie, z daleka królowie\npragną widzieć swego, pragną widzieć swego\nStwórcę przedwiecznego, Stwórcę przedwiecznego.\nDziś Mu pokłon dają, dziś Mu pokłon dają\nw ciele oglądają, w ciele oglądają.\nKażdy się dziwuje, każdy się dziwuje,\nże Bóg nas miłuje, że Bóg nas miłuje.\nI my też pośpieszmy, i my też pośpieszmy\nJezusa ucieszmy, Jezusa ucieszmy.\nZe serca darami, ze serca darami:\nmodlitwą, cnotami, modlitwą, cnotami.\nJezu najmilejszy, Jezu najmilejszy,\nze wszech najwdzięczniejszy, ze wszech najwdzięczniejszy\nzmiłuj się nad nami, zmiłuj się nad nami\ngrzesznymi sługami, grzesznymi sługami.",
+      "lyrics": "A wczora z wieczora, a wczora z wieczora\nz niebieskiego dwora, z niebieskiego dwora.\nPrzyszła nam nowina, przyszła nam nowina:\nPanna rodzi syna, panna rodzi syna.\nBoga prawdziwego, Boga prawdziwego\nnieogarnionego, nieogarnionego.\nZa wyrokiem Boskim, za wyrokiem Boskim,\nw Betlejem żydowskim, w Betlejem żydowskim.\nPastuszkowie mali, pastuszkowie mali,\nw polu wtenczas spali, w polu wtenczas spali.\nGdy Anioł z północy, gdy Anioł z północy,\nświatłość z nieba toczy, światłość z nieba toczy.\nChwałę oznajmując, chwałę oznajmując,\nszopę pokazując, szopę pokazując.\nChwałę Boga tego, chwałę Boga tego,\ndziś nam zrodzonego, dziś nam zrodzonego.\nTam Panna Dzieciątko, tam Panna Dzieciątko\nmiłe Niemowlątko, miłe Niemowlątko,\nuwija w pieluszki, uwija w pieluszki\npośpieszcie pastuszki, pośpieszcie pastuszki!\nNatychmiast pastuszy, natychmiast pastuszy\nśpieszą z całej duszy, śpieszą z całej duszy.\nWeseli bez miary, Weseli bez miary\nniosą z sobą dary, niosą z sobą dary.\nMądrości druhowie, mądrości druhowie\nz daleka królowie, z daleka królowie\npragną widzieć swego, pragną widzieć swego\nStwórcę przedwiecznego, Stwórcę przedwiecznego.\nDziś Mu pokłon dają, dziś Mu pokłon dają\nw ciele oglądają, w ciele oglądają.\nKażdy się dziwuje, każdy się dziwuje,\nże Bóg nas miłuje, że Bóg nas miłuje.\nI my też pośpieszmy, i my też pośpieszmy\nJezusa ucieszmy, Jezusa ucieszmy.\nZe serca darami, ze serca darami:\nmodlitwą, cnotami, modlitwą, cnotami.\nJezu najmilejszy, Jezu najmilejszy,\nze wszech najwdzięczniejszy, ze wszech najwdzięczniejszy\nzmiłuj się nad nami, zmiłuj się nad nami\ngrzesznymi sługami, grzesznymi sługami.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -506,17 +510,18 @@
           "odstep_przed": false
         }
       ],
-      "tekst": "A wczora z wieczora, a wczora z wieczora\nz niebieskiego dwora, z niebieskiego dwora.\nPrzyszła nam nowina, przyszła nam nowina:\nPanna rodzi syna, panna rodzi syna.\nBoga prawdziwego, Boga prawdziwego\nnieogarnionego, nieogarnionego.\nZa wyrokiem Boskim, za wyrokiem Boskim,\nw Betlejem żydowskim, w Betlejem żydowskim.\nPastuszkowie mali, pastuszkowie mali,\nw polu wtenczas spali, w polu wtenczas spali.\nGdy Anioł z północy, gdy Anioł z północy,\nświatłość z nieba toczy, światłość z nieba toczy.\nChwałę oznajmując, chwałę oznajmując,\nszopę pokazując, szopę pokazując.\nChwałę Boga tego, chwałę Boga tego,\ndziś nam zrodzonego, dziś nam zrodzonego.\nTam Panna Dzieciątko, tam Panna Dzieciątko\nmiłe Niemowlątko, miłe Niemowlątko,\nuwija w pieluszki, uwija w pieluszki\npośpieszcie pastuszki, pośpieszcie pastuszki!\nNatychmiast pastuszy, natychmiast pastuszy\nśpieszą z całej duszy, śpieszą z całej duszy.\nWeseli bez miary, Weseli bez miary\nniosą z sobą dary, niosą z sobą dary.\nMądrości druhowie, mądrości druhowie\nz daleka królowie, z daleka królowie\npragną widzieć swego, pragną widzieć swego\nStwórcę przedwiecznego, Stwórcę przedwiecznego.\nDziś Mu pokłon dają, dziś Mu pokłon dają\nw ciele oglądają, w ciele oglądają.\nKażdy się dziwuje, każdy się dziwuje,\nże Bóg nas miłuje, że Bóg nas miłuje.\nI my też pośpieszmy, i my też pośpieszmy\nJezusa ucieszmy, Jezusa ucieszmy.\nZe serca darami, ze serca darami:\nmodlitwą, cnotami, modlitwą, cnotami.\nJezu najmilejszy, Jezu najmilejszy,\nze wszech najwdzięczniejszy, ze wszech najwdzięczniejszy\nzmiłuj się nad nami, zmiłuj się nad nami\ngrzesznymi sługami, grzesznymi sługami.",
-      "lyrics": "A wczora z wieczora, a wczora z wieczora\nz niebieskiego dwora, z niebieskiego dwora.\nPrzyszła nam nowina, przyszła nam nowina:\nPanna rodzi syna, panna rodzi syna.\nBoga prawdziwego, Boga prawdziwego\nnieogarnionego, nieogarnionego.\nZa wyrokiem Boskim, za wyrokiem Boskim,\nw Betlejem żydowskim, w Betlejem żydowskim.\nPastuszkowie mali, pastuszkowie mali,\nw polu wtenczas spali, w polu wtenczas spali.\nGdy Anioł z północy, gdy Anioł z północy,\nświatłość z nieba toczy, światłość z nieba toczy.\nChwałę oznajmując, chwałę oznajmując,\nszopę pokazując, szopę pokazując.\nChwałę Boga tego, chwałę Boga tego,\ndziś nam zrodzonego, dziś nam zrodzonego.\nTam Panna Dzieciątko, tam Panna Dzieciątko\nmiłe Niemowlątko, miłe Niemowlątko,\nuwija w pieluszki, uwija w pieluszki\npośpieszcie pastuszki, pośpieszcie pastuszki!\nNatychmiast pastuszy, natychmiast pastuszy\nśpieszą z całej duszy, śpieszą z całej duszy.\nWeseli bez miary, Weseli bez miary\nniosą z sobą dary, niosą z sobą dary.\nMądrości druhowie, mądrości druhowie\nz daleka królowie, z daleka królowie\npragną widzieć swego, pragną widzieć swego\nStwórcę przedwiecznego, Stwórcę przedwiecznego.\nDziś Mu pokłon dają, dziś Mu pokłon dają\nw ciele oglądają, w ciele oglądają.\nKażdy się dziwuje, każdy się dziwuje,\nże Bóg nas miłuje, że Bóg nas miłuje.\nI my też pośpieszmy, i my też pośpieszmy\nJezusa ucieszmy, Jezusa ucieszmy.\nZe serca darami, ze serca darami:\nmodlitwą, cnotami, modlitwą, cnotami.\nJezu najmilejszy, Jezu najmilejszy,\nze wszech najwdzięczniejszy, ze wszech najwdzięczniejszy\nzmiłuj się nad nami, zmiłuj się nad nami\ngrzesznymi sługami, grzesznymi sługami."
+      "mp3": "a-wczora-z-wieczora.mp3"
     },
     {
-      "id": "kol-003",
+      "id": "ss-003",
       "tytul": "Ach, ubogi w żłobie",
       "title": "Ach, ubogi w żłobie",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. Piotr Studziński"
       ],
+      "tekst": "Ach, ubogi w żłobie,\ncóż ja widzę w Tobie.\nDroższy widok niż ma niebo,\nw maleńkiej osobie,\nDroższy widok niż ma niebo,\nw maleńkiej osobie.\nZbawicielu drogi,\njakżeś to ubogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nCzyżeś nie mógł Sobie,\nw największej ozdobie,\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nPrzed Tobą padamy,\nczołem uderzamy.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nGdy na świat przybywasz,\ngrzechy z niego zmywasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz.",
+      "lyrics": "Ach, ubogi w żłobie,\ncóż ja widzę w Tobie.\nDroższy widok niż ma niebo,\nw maleńkiej osobie,\nDroższy widok niż ma niebo,\nw maleńkiej osobie.\nZbawicielu drogi,\njakżeś to ubogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nCzyżeś nie mógł Sobie,\nw największej ozdobie,\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nPrzed Tobą padamy,\nczołem uderzamy.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nGdy na świat przybywasz,\ngrzechy z niego zmywasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -698,18 +703,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Ach, ubogi w żłobie,\ncóż ja widzę w Tobie.\nDroższy widok niż ma niebo,\nw maleńkiej osobie,\nDroższy widok niż ma niebo,\nw maleńkiej osobie.\nZbawicielu drogi,\njakżeś to ubogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nCzyżeś nie mógł Sobie,\nw największej ozdobie,\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nPrzed Tobą padamy,\nczołem uderzamy.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nGdy na świat przybywasz,\ngrzechy z niego zmywasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz.",
-      "lyrics": "Ach, ubogi w żłobie,\ncóż ja widzę w Tobie.\nDroższy widok niż ma niebo,\nw maleńkiej osobie,\nDroższy widok niż ma niebo,\nw maleńkiej osobie.\nZbawicielu drogi,\njakżeś to ubogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nCzyżeś nie mógł Sobie,\nw największej ozdobie,\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nPrzed Tobą padamy,\nczołem uderzamy.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nGdy na świat przybywasz,\ngrzechy z niego zmywasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz."
+      ]
     },
     {
-      "id": "kol-004",
+      "id": "ss-004",
       "tytul": "Anioł pasterzom mówił",
       "title": "Anioł pasterzom mówił",
       "autorzy_i_informacje": [
         "sł. XVI w.",
         "muz. XVII w."
       ],
+      "tekst": "Anioł pasterzom mówił,\nChrystus się wam narodził.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nChcąc się dowiedzieć tego\nposelstwa wesołego.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nTaki Pan chwały wielkiej.\nUniżył się Wysoki.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nO dziwne narodzenie,\nNigdy niewysławione!\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nJuż się ono spełniło,\nCo pod figurą było:\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nSłuchajcież Boga Ojca,\nJako wam Go zaleca:\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nBogu bądź cześć i chwała,\nKtóra byś nie ustała,\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu.\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu.",
+      "lyrics": "Anioł pasterzom mówił,\nChrystus się wam narodził.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nChcąc się dowiedzieć tego\nposelstwa wesołego.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nTaki Pan chwały wielkiej.\nUniżył się Wysoki.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nO dziwne narodzenie,\nNigdy niewysławione!\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nJuż się ono spełniło,\nCo pod figurą było:\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nSłuchajcież Boga Ojca,\nJako wam Go zaleca:\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nBogu bądź cześć i chwała,\nKtóra byś nie ustała,\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu.\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -1047,18 +1052,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Anioł pasterzom mówił,\nChrystus się wam narodził.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nChcąc się dowiedzieć tego\nposelstwa wesołego.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nTaki Pan chwały wielkiej.\nUniżył się Wysoki.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nO dziwne narodzenie,\nNigdy niewysławione!\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nJuż się ono spełniło,\nCo pod figurą było:\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nSłuchajcież Boga Ojca,\nJako wam Go zaleca:\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nBogu bądź cześć i chwała,\nKtóra byś nie ustała,\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu.\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu.",
-      "lyrics": "Anioł pasterzom mówił,\nChrystus się wam narodził.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nChcąc się dowiedzieć tego\nposelstwa wesołego.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nTaki Pan chwały wielkiej.\nUniżył się Wysoki.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nO dziwne narodzenie,\nNigdy niewysławione!\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nJuż się ono spełniło,\nCo pod figurą było:\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nSłuchajcież Boga Ojca,\nJako wam Go zaleca:\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nBogu bądź cześć i chwała,\nKtóra byś nie ustała,\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu.\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu."
+      ]
     },
     {
-      "id": "kol-005",
+      "id": "ss-005",
       "tytul": "Bóg się rodzi",
       "title": "Bóg się rodzi",
       "autorzy_i_informacje": [
         "muz. XIX w.",
         "sł. Franciszek Karpiński"
       ],
+      "tekst": "Bóg się rodzi, moc truchleje,\nPan niebiosów obnażony.\nOgień krzepnie, blask ciemnieje,\nMa granice Nieskończony!\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nCóż masz, niebo nad ziemiany?\nBóg porzucił szczęście swoje,\nWszedł między lud ukochany,\nDzieląc z nim trudy i znoje.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPodnieś rękę, Boże Dziecię,\nBłogosław ojczyznę miłą,\nW dobrych radach, dobrym bycie,\nWspieraj jej siłę swą siłą.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nW nędznej szopie urodzony,\nŻłób Mu za kolebkę dano!\nCóż jest, czym był otoczony?\nBydło, pasterze i siano.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPotem i króle widziani,\nCisną się między prostotą,\nNiosąc dary Panu w dani:\nMirrę, kadzidło i złoto.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami.",
+      "lyrics": "Bóg się rodzi, moc truchleje,\nPan niebiosów obnażony.\nOgień krzepnie, blask ciemnieje,\nMa granice Nieskończony!\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nCóż masz, niebo nad ziemiany?\nBóg porzucił szczęście swoje,\nWszedł między lud ukochany,\nDzieląc z nim trudy i znoje.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPodnieś rękę, Boże Dziecię,\nBłogosław ojczyznę miłą,\nW dobrych radach, dobrym bycie,\nWspieraj jej siłę swą siłą.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nW nędznej szopie urodzony,\nŻłób Mu za kolebkę dano!\nCóż jest, czym był otoczony?\nBydło, pasterze i siano.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPotem i króle widziani,\nCisną się między prostotą,\nNiosąc dary Panu w dani:\nMirrę, kadzidło i złoto.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -1420,18 +1425,18 @@
           "styl_zrodlowy": "Zwrotka2",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Bóg się rodzi, moc truchleje,\nPan niebiosów obnażony.\nOgień krzepnie, blask ciemnieje,\nMa granice Nieskończony!\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nCóż masz, niebo nad ziemiany?\nBóg porzucił szczęście swoje,\nWszedł między lud ukochany,\nDzieląc z nim trudy i znoje.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPodnieś rękę, Boże Dziecię,\nBłogosław ojczyznę miłą,\nW dobrych radach, dobrym bycie,\nWspieraj jej siłę swą siłą.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nW nędznej szopie urodzony,\nŻłób Mu za kolebkę dano!\nCóż jest, czym był otoczony?\nBydło, pasterze i siano.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPotem i króle widziani,\nCisną się między prostotą,\nNiosąc dary Panu w dani:\nMirrę, kadzidło i złoto.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami.",
-      "lyrics": "Bóg się rodzi, moc truchleje,\nPan niebiosów obnażony.\nOgień krzepnie, blask ciemnieje,\nMa granice Nieskończony!\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nCóż masz, niebo nad ziemiany?\nBóg porzucił szczęście swoje,\nWszedł między lud ukochany,\nDzieląc z nim trudy i znoje.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPodnieś rękę, Boże Dziecię,\nBłogosław ojczyznę miłą,\nW dobrych radach, dobrym bycie,\nWspieraj jej siłę swą siłą.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nW nędznej szopie urodzony,\nŻłób Mu za kolebkę dano!\nCóż jest, czym był otoczony?\nBydło, pasterze i siano.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPotem i króle widziani,\nCisną się między prostotą,\nNiosąc dary Panu w dani:\nMirrę, kadzidło i złoto.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami."
+      ]
     },
     {
-      "id": "kol-006",
+      "id": "ss-006",
       "tytul": "Bracia, patrzcie jeno",
       "title": "Bracia, patrzcie jeno",
       "autorzy_i_informacje": [
         "sł. tradycyjne",
         "muz. ks. Antoni Dąbrowski"
       ],
+      "tekst": "Bracie, patrzcie jeno,\njak niebo goreje!\nZnać, że coś dziwnego\nw Betlejem się dzieje.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nWszakże powiedziałem,\nże cuda ujrzymy:\nDziecię, Boga świata,\nw żłobie zobaczymy.\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak tam gwiazda\nświatłem swoim miga,\nPewnie dla uczczenia\nPana swego ściga.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nObchodząc pamiątkę\nodwiedzin pasterzy,\nKażdy czciciel Boga,\nco w Chrystusa wierzy,\nNiech się cieszy i raduje,\nże Zbawcę swego znajduje\nw szopie przy Betlejem, przy Betlejem.",
+      "lyrics": "Bracie, patrzcie jeno,\njak niebo goreje!\nZnać, że coś dziwnego\nw Betlejem się dzieje.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nWszakże powiedziałem,\nże cuda ujrzymy:\nDziecię, Boga świata,\nw żłobie zobaczymy.\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak tam gwiazda\nświatłem swoim miga,\nPewnie dla uczczenia\nPana swego ściga.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nObchodząc pamiątkę\nodwiedzin pasterzy,\nKażdy czciciel Boga,\nco w Chrystusa wierzy,\nNiech się cieszy i raduje,\nże Zbawcę swego znajduje\nw szopie przy Betlejem, przy Betlejem.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -1655,18 +1660,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Bracie, patrzcie jeno,\njak niebo goreje!\nZnać, że coś dziwnego\nw Betlejem się dzieje.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nWszakże powiedziałem,\nże cuda ujrzymy:\nDziecię, Boga świata,\nw żłobie zobaczymy.\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak tam gwiazda\nświatłem swoim miga,\nPewnie dla uczczenia\nPana swego ściga.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nObchodząc pamiątkę\nodwiedzin pasterzy,\nKażdy czciciel Boga,\nco w Chrystusa wierzy,\nNiech się cieszy i raduje,\nże Zbawcę swego znajduje\nw szopie przy Betlejem, przy Betlejem.",
-      "lyrics": "Bracie, patrzcie jeno,\njak niebo goreje!\nZnać, że coś dziwnego\nw Betlejem się dzieje.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nWszakże powiedziałem,\nże cuda ujrzymy:\nDziecię, Boga świata,\nw żłobie zobaczymy.\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak tam gwiazda\nświatłem swoim miga,\nPewnie dla uczczenia\nPana swego ściga.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nObchodząc pamiątkę\nodwiedzin pasterzy,\nKażdy czciciel Boga,\nco w Chrystusa wierzy,\nNiech się cieszy i raduje,\nże Zbawcę swego znajduje\nw szopie przy Betlejem, przy Betlejem."
+      ]
     },
     {
-      "id": "kol-007",
+      "id": "ss-007",
       "tytul": "Cicha noc",
       "title": "Cicha noc",
       "autorzy_i_informacje": [
         "sł. Piotr Maszyński",
         "muz. Franz X. Gruber"
       ],
+      "tekst": "Cicha noc, Święta noc.\nPokój niesie ludziom wszem.\nA u żłóbka Matka Święta\nczuwa sama uśmiechnięta.\nNad Dzieciątka snem,\nnad Dzieciątka snem.\nCicha noc, Święta noc.\nPastuszkowie od swych trzód\nbiegną wielce zadziwieni,\nza anielskim głosem pieni.\nGdzie się spełnił cud,\ngdzie się spełnił cud.\nCicha noc, Święta noc.\nNarodzony Boży Syn,\npan wielkiego majestatu,\nniesie dziś całemu światu.\nOdkupienie win,\nodkupienie win.\nCicha noc, Święta noc.\nJakiż w tobie dzisiaj cud.\nW Betlejem Dziecina święta\nwznosi w górę swe rączęta.\nBłogosławi lud,\nbłogosławi lud.",
+      "lyrics": "Cicha noc, Święta noc.\nPokój niesie ludziom wszem.\nA u żłóbka Matka Święta\nczuwa sama uśmiechnięta.\nNad Dzieciątka snem,\nnad Dzieciątka snem.\nCicha noc, Święta noc.\nPastuszkowie od swych trzód\nbiegną wielce zadziwieni,\nza anielskim głosem pieni.\nGdzie się spełnił cud,\ngdzie się spełnił cud.\nCicha noc, Święta noc.\nNarodzony Boży Syn,\npan wielkiego majestatu,\nniesie dziś całemu światu.\nOdkupienie win,\nodkupienie win.\nCicha noc, Święta noc.\nJakiż w tobie dzisiaj cud.\nW Betlejem Dziecina święta\nwznosi w górę swe rączęta.\nBłogosławi lud,\nbłogosławi lud.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -1812,18 +1817,18 @@
           "styl_zrodlowy": "Zwrotka2",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Cicha noc, Święta noc.\nPokój niesie ludziom wszem.\nA u żłóbka Matka Święta\nczuwa sama uśmiechnięta.\nNad Dzieciątka snem,\nnad Dzieciątka snem.\nCicha noc, Święta noc.\nPastuszkowie od swych trzód\nbiegną wielce zadziwieni,\nza anielskim głosem pieni.\nGdzie się spełnił cud,\ngdzie się spełnił cud.\nCicha noc, Święta noc.\nNarodzony Boży Syn,\npan wielkiego majestatu,\nniesie dziś całemu światu.\nOdkupienie win,\nodkupienie win.\nCicha noc, Święta noc.\nJakiż w tobie dzisiaj cud.\nW Betlejem Dziecina święta\nwznosi w górę swe rączęta.\nBłogosławi lud,\nbłogosławi lud.",
-      "lyrics": "Cicha noc, Święta noc.\nPokój niesie ludziom wszem.\nA u żłóbka Matka Święta\nczuwa sama uśmiechnięta.\nNad Dzieciątka snem,\nnad Dzieciątka snem.\nCicha noc, Święta noc.\nPastuszkowie od swych trzód\nbiegną wielce zadziwieni,\nza anielskim głosem pieni.\nGdzie się spełnił cud,\ngdzie się spełnił cud.\nCicha noc, Święta noc.\nNarodzony Boży Syn,\npan wielkiego majestatu,\nniesie dziś całemu światu.\nOdkupienie win,\nodkupienie win.\nCicha noc, Święta noc.\nJakiż w tobie dzisiaj cud.\nW Betlejem Dziecina święta\nwznosi w górę swe rączęta.\nBłogosławi lud,\nbłogosławi lud."
+      ]
     },
     {
-      "id": "kol-008",
+      "id": "ss-008",
       "tytul": "Cieszmy się",
       "title": "Cieszmy się",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. XX w."
       ],
+      "tekst": "Cieszmy się i pod niebiosy\nwznośmy razem miłe głosy,\nbo wesoła dziś nowina:\nczysta Panna rodzi syna.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nZłożyła Go na sianeczku,\nmiędzy bydlęty w żłóbeczku,\nAniołowie Go witają,\nchwałę z wysoka śpiewają,\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nTrzej królowie ode wschodu\nZ darami swego narodu,\nDo Betlejem pośpieszają,\nPokłon i dary Mu dają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nPastuszkowie na znak dany,\nZnalazłszy Pana nad pany,\nZ pociechą serca witają,\nBogiem Go swoim wyznają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.",
+      "lyrics": "Cieszmy się i pod niebiosy\nwznośmy razem miłe głosy,\nbo wesoła dziś nowina:\nczysta Panna rodzi syna.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nZłożyła Go na sianeczku,\nmiędzy bydlęty w żłóbeczku,\nAniołowie Go witają,\nchwałę z wysoka śpiewają,\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nTrzej królowie ode wschodu\nZ darami swego narodu,\nDo Betlejem pośpieszają,\nPokłon i dary Mu dają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nPastuszkowie na znak dany,\nZnalazłszy Pana nad pany,\nZ pociechą serca witają,\nBogiem Go swoim wyznają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -2017,18 +2022,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Cieszmy się i pod niebiosy\nwznośmy razem miłe głosy,\nbo wesoła dziś nowina:\nczysta Panna rodzi syna.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nZłożyła Go na sianeczku,\nmiędzy bydlęty w żłóbeczku,\nAniołowie Go witają,\nchwałę z wysoka śpiewają,\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nTrzej królowie ode wschodu\nZ darami swego narodu,\nDo Betlejem pośpieszają,\nPokłon i dary Mu dają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nPastuszkowie na znak dany,\nZnalazłszy Pana nad pany,\nZ pociechą serca witają,\nBogiem Go swoim wyznają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.",
-      "lyrics": "Cieszmy się i pod niebiosy\nwznośmy razem miłe głosy,\nbo wesoła dziś nowina:\nczysta Panna rodzi syna.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nZłożyła Go na sianeczku,\nmiędzy bydlęty w żłóbeczku,\nAniołowie Go witają,\nchwałę z wysoka śpiewają,\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nTrzej królowie ode wschodu\nZ darami swego narodu,\nDo Betlejem pośpieszają,\nPokłon i dary Mu dają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nPastuszkowie na znak dany,\nZnalazłszy Pana nad pany,\nZ pociechą serca witają,\nBogiem Go swoim wyznają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego."
+      ]
     },
     {
-      "id": "kol-009",
+      "id": "ss-009",
       "tytul": "Dnia jednego",
       "title": "Dnia jednego",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. XVIII w."
       ],
+      "tekst": "Dnia jednego o północy,\ngdym zasnął w ciężkiej niemocy.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nSam się czym prędzej porwałem\ni na drugich zawołałem.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNie zaraz się podźwignęli,\nbo byli twardo zasnęli;\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nPorwali się, biegli drogą,\ngdzie widzieli jasność srogą:\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nWbiegliśmy zaraz do szopy,\nuściskaliśmy Mu stopy;\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu.\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu.",
+      "lyrics": "Dnia jednego o północy,\ngdym zasnął w ciężkiej niemocy.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nSam się czym prędzej porwałem\ni na drugich zawołałem.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNie zaraz się podźwignęli,\nbo byli twardo zasnęli;\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nPorwali się, biegli drogą,\ngdzie widzieli jasność srogą:\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nWbiegliśmy zaraz do szopy,\nuściskaliśmy Mu stopy;\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu.\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -2210,18 +2215,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Dnia jednego o północy,\ngdym zasnął w ciężkiej niemocy.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nSam się czym prędzej porwałem\ni na drugich zawołałem.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNie zaraz się podźwignęli,\nbo byli twardo zasnęli;\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nPorwali się, biegli drogą,\ngdzie widzieli jasność srogą:\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nWbiegliśmy zaraz do szopy,\nuściskaliśmy Mu stopy;\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu.\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu.",
-      "lyrics": "Dnia jednego o północy,\ngdym zasnął w ciężkiej niemocy.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nSam się czym prędzej porwałem\ni na drugich zawołałem.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNie zaraz się podźwignęli,\nbo byli twardo zasnęli;\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nPorwali się, biegli drogą,\ngdzie widzieli jasność srogą:\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nWbiegliśmy zaraz do szopy,\nuściskaliśmy Mu stopy;\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu.\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu."
+      ]
     },
     {
-      "id": "kol-010",
+      "id": "ss-010",
       "tytul": "Do szopy, hej pasterze",
       "title": "Do szopy, hej pasterze",
       "autorzy_i_informacje": [
         "sł. J.A. Gwoździkowski",
         "muz. J.A. Gwoździkowski"
       ],
+      "tekst": "Do szopy, hej pasterze,\ndo szopy, bo tam cud!\nSyn Boży w żłobie leży,\nby zbawić ludzki ród.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nPadnijmy na kolana,\nTo Dziecię to nasz Bóg,\nWitajmy swego Pana;\nWdzięczności złóżmy dług.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nO Boże niepojęty, kto\nPojmie miłość Twą?\nNa sianie wśród bydlęty,\nMasz tron i służbę swą.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nJezuniu mój najsłodszy,\nTobie oddaję się.\nO skarbie mój najdroższy,\nRacz wziąć na własność mnie.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.",
+      "lyrics": "Do szopy, hej pasterze,\ndo szopy, bo tam cud!\nSyn Boży w żłobie leży,\nby zbawić ludzki ród.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nPadnijmy na kolana,\nTo Dziecię to nasz Bóg,\nWitajmy swego Pana;\nWdzięczności złóżmy dług.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nO Boże niepojęty, kto\nPojmie miłość Twą?\nNa sianie wśród bydlęty,\nMasz tron i służbę swą.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nJezuniu mój najsłodszy,\nTobie oddaję się.\nO skarbie mój najdroższy,\nRacz wziąć na własność mnie.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -2511,18 +2516,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Do szopy, hej pasterze,\ndo szopy, bo tam cud!\nSyn Boży w żłobie leży,\nby zbawić ludzki ród.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nPadnijmy na kolana,\nTo Dziecię to nasz Bóg,\nWitajmy swego Pana;\nWdzięczności złóżmy dług.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nO Boże niepojęty, kto\nPojmie miłość Twą?\nNa sianie wśród bydlęty,\nMasz tron i służbę swą.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nJezuniu mój najsłodszy,\nTobie oddaję się.\nO skarbie mój najdroższy,\nRacz wziąć na własność mnie.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.",
-      "lyrics": "Do szopy, hej pasterze,\ndo szopy, bo tam cud!\nSyn Boży w żłobie leży,\nby zbawić ludzki ród.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nPadnijmy na kolana,\nTo Dziecię to nasz Bóg,\nWitajmy swego Pana;\nWdzięczności złóżmy dług.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nO Boże niepojęty, kto\nPojmie miłość Twą?\nNa sianie wśród bydlęty,\nMasz tron i służbę swą.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nJezuniu mój najsłodszy,\nTobie oddaję się.\nO skarbie mój najdroższy,\nRacz wziąć na własność mnie.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu."
+      ]
     },
     {
-      "id": "kol-011",
+      "id": "ss-011",
       "tytul": "Dzisiaj w Betlejem",
       "title": "Dzisiaj w Betlejem",
       "autorzy_i_informacje": [
         "sł. ks. Jan Siedlecki",
         "muz. ks. Jan Siedlecki"
       ],
+      "tekst": "Dzisiaj w Betlejem, dzisiaj w Betlejem\nwesoła nowina.\nŻe Panna czysta, że Panna czysta\nporodziła Syna!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nMaryja Panna, Maryja Panna,\ndzieciątko piastuje.\nI Józef święty, i Józef święty\nono pielęgnuje.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChoć w stajeneczce, choć w stajeneczce,\npanna Syna rodzi.\nPrzecież On wkrótce, przecież On wkrótce\nludzi oswobodzi.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nI trzej królowie, i trzej królowie\nod wschodu przybyli.\nI dary Panu, i dary Panu\nkosztowne złożyli.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nPójdźmy też i my, pójdźmy też i my\nprzywitać Jezusa.\nKróla nad królami, Króla nad królami,\nuwielbić Chrystusa.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!",
+      "lyrics": "Dzisiaj w Betlejem, dzisiaj w Betlejem\nwesoła nowina.\nŻe Panna czysta, że Panna czysta\nporodziła Syna!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nMaryja Panna, Maryja Panna,\ndzieciątko piastuje.\nI Józef święty, i Józef święty\nono pielęgnuje.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChoć w stajeneczce, choć w stajeneczce,\npanna Syna rodzi.\nPrzecież On wkrótce, przecież On wkrótce\nludzi oswobodzi.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nI trzej królowie, i trzej królowie\nod wschodu przybyli.\nI dary Panu, i dary Panu\nkosztowne złożyli.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nPójdźmy też i my, pójdźmy też i my\nprzywitać Jezusa.\nKróla nad królami, Króla nad królami,\nuwielbić Chrystusa.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -2884,18 +2889,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Dzisiaj w Betlejem, dzisiaj w Betlejem\nwesoła nowina.\nŻe Panna czysta, że Panna czysta\nporodziła Syna!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nMaryja Panna, Maryja Panna,\ndzieciątko piastuje.\nI Józef święty, i Józef święty\nono pielęgnuje.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChoć w stajeneczce, choć w stajeneczce,\npanna Syna rodzi.\nPrzecież On wkrótce, przecież On wkrótce\nludzi oswobodzi.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nI trzej królowie, i trzej królowie\nod wschodu przybyli.\nI dary Panu, i dary Panu\nkosztowne złożyli.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nPójdźmy też i my, pójdźmy też i my\nprzywitać Jezusa.\nKróla nad królami, Króla nad królami,\nuwielbić Chrystusa.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!",
-      "lyrics": "Dzisiaj w Betlejem, dzisiaj w Betlejem\nwesoła nowina.\nŻe Panna czysta, że Panna czysta\nporodziła Syna!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nMaryja Panna, Maryja Panna,\ndzieciątko piastuje.\nI Józef święty, i Józef święty\nono pielęgnuje.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChoć w stajeneczce, choć w stajeneczce,\npanna Syna rodzi.\nPrzecież On wkrótce, przecież On wkrótce\nludzi oswobodzi.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nI trzej królowie, i trzej królowie\nod wschodu przybyli.\nI dary Panu, i dary Panu\nkosztowne złożyli.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nPójdźmy też i my, pójdźmy też i my\nprzywitać Jezusa.\nKróla nad królami, Króla nad królami,\nuwielbić Chrystusa.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!"
+      ]
     },
     {
-      "id": "kol-012",
+      "id": "ss-012",
       "tytul": "Gdy się Chrystus rodzi",
       "title": "Gdy się Chrystus rodzi",
       "autorzy_i_informacje": [
         "sł. tradycyjne",
         "muz. tradycyjna"
       ],
+      "tekst": "Gdy się Chrystus rodzi\ni na świat przychodzi,\nciemna noc w jasnościach\npromienistych brodzi.\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nMówią do pasterzy,\nktórzy trzód swych strzegli,\naby do Betlejem\nczym prędzej pobiegli,\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nO, niebieskie duchy\ni posłowie nieba,\npowiedzcież wyraźniej,\nco nam czynić trzeba,\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nIdźcie do Betlejem,\ngdzie Dziecię zrodzone,\nw pieluszki powite,\nw żłobie położone;\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!",
+      "lyrics": "Gdy się Chrystus rodzi\ni na świat przychodzi,\nciemna noc w jasnościach\npromienistych brodzi.\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nMówią do pasterzy,\nktórzy trzód swych strzegli,\naby do Betlejem\nczym prędzej pobiegli,\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nO, niebieskie duchy\ni posłowie nieba,\npowiedzcież wyraźniej,\nco nam czynić trzeba,\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nIdźcie do Betlejem,\ngdzie Dziecię zrodzone,\nw pieluszki powite,\nw żłobie położone;\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -3185,18 +3190,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Gdy się Chrystus rodzi\ni na świat przychodzi,\nciemna noc w jasnościach\npromienistych brodzi.\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nMówią do pasterzy,\nktórzy trzód swych strzegli,\naby do Betlejem\nczym prędzej pobiegli,\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nO, niebieskie duchy\ni posłowie nieba,\npowiedzcież wyraźniej,\nco nam czynić trzeba,\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nIdźcie do Betlejem,\ngdzie Dziecię zrodzone,\nw pieluszki powite,\nw żłobie położone;\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!",
-      "lyrics": "Gdy się Chrystus rodzi\ni na świat przychodzi,\nciemna noc w jasnościach\npromienistych brodzi.\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nMówią do pasterzy,\nktórzy trzód swych strzegli,\naby do Betlejem\nczym prędzej pobiegli,\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nO, niebieskie duchy\ni posłowie nieba,\npowiedzcież wyraźniej,\nco nam czynić trzeba,\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nIdźcie do Betlejem,\ngdzie Dziecię zrodzone,\nw pieluszki powite,\nw żłobie położone;\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!"
+      ]
     },
     {
-      "id": "kol-013",
+      "id": "ss-013",
       "tytul": "Gdy śliczna Panna",
       "title": "Gdy śliczna Panna",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. XVII w"
       ],
+      "tekst": "Gdy śliczna Panna Syna kołysała,\nwielkim weselem tak jemu śpiewała:\nLili, lili laj, moje Dzieciąteczko,\nLili, lili laj, śliczne Paniąteczko.\nWszystko stworzenie, śpiewaj Panu swemu,\nPomóż radości wielkiej sercu memu.\nLi li li li laj, wielki królewicu,\nLi li li li laj, niebieski dziedzicu!\nSypcie się z nieba, śliczni aniołowie,\nŚpiewajcie Panu, niebiescy duchowie:\nLi li li li laj, mój wonny kwiateczku,\nLi li li li laj, w ubogim żłobeczku.",
+      "lyrics": "Gdy śliczna Panna Syna kołysała,\nwielkim weselem tak jemu śpiewała:\nLili, lili laj, moje Dzieciąteczko,\nLili, lili laj, śliczne Paniąteczko.\nWszystko stworzenie, śpiewaj Panu swemu,\nPomóż radości wielkiej sercu memu.\nLi li li li laj, wielki królewicu,\nLi li li li laj, niebieski dziedzicu!\nSypcie się z nieba, śliczni aniołowie,\nŚpiewajcie Panu, niebiescy duchowie:\nLi li li li laj, mój wonny kwiateczku,\nLi li li li laj, w ubogim żłobeczku.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -3270,18 +3275,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Gdy śliczna Panna Syna kołysała,\nwielkim weselem tak jemu śpiewała:\nLili, lili laj, moje Dzieciąteczko,\nLili, lili laj, śliczne Paniąteczko.\nWszystko stworzenie, śpiewaj Panu swemu,\nPomóż radości wielkiej sercu memu.\nLi li li li laj, wielki królewicu,\nLi li li li laj, niebieski dziedzicu!\nSypcie się z nieba, śliczni aniołowie,\nŚpiewajcie Panu, niebiescy duchowie:\nLi li li li laj, mój wonny kwiateczku,\nLi li li li laj, w ubogim żłobeczku.",
-      "lyrics": "Gdy śliczna Panna Syna kołysała,\nwielkim weselem tak jemu śpiewała:\nLili, lili laj, moje Dzieciąteczko,\nLili, lili laj, śliczne Paniąteczko.\nWszystko stworzenie, śpiewaj Panu swemu,\nPomóż radości wielkiej sercu memu.\nLi li li li laj, wielki królewicu,\nLi li li li laj, niebieski dziedzicu!\nSypcie się z nieba, śliczni aniołowie,\nŚpiewajcie Panu, niebiescy duchowie:\nLi li li li laj, mój wonny kwiateczku,\nLi li li li laj, w ubogim żłobeczku."
+      ]
     },
     {
-      "id": "kol-014",
+      "id": "ss-014",
       "tytul": "Gdy ziemię cichym snem",
       "title": "Gdy ziemię cichym snem",
       "autorzy_i_informacje": [
         "sł. ks. Hieronim Chamski",
         "muz. austriacka"
       ],
+      "tekst": "Gdy ziemię cichym snem okryła noc\nokazał nam Bóg dobroć swą i moc.\nPrzychodzi Boży Syn i stał się cud,\nŚwiat poznał, że zbawiony ludzki ród.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nW stajence Dziecię śpi, to Boży Syn,\nOn życie dał na okup naszych win.\nMaryjo uproś nam, by Syn Twój Bóg\nOddalał od nas wszelki ból i głód.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.",
+      "lyrics": "Gdy ziemię cichym snem okryła noc\nokazał nam Bóg dobroć swą i moc.\nPrzychodzi Boży Syn i stał się cud,\nŚwiat poznał, że zbawiony ludzki ród.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nW stajence Dziecię śpi, to Boży Syn,\nOn życie dał na okup naszych win.\nMaryjo uproś nam, by Syn Twój Bóg\nOddalał od nas wszelki ból i głód.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -3391,18 +3396,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Gdy ziemię cichym snem okryła noc\nokazał nam Bóg dobroć swą i moc.\nPrzychodzi Boży Syn i stał się cud,\nŚwiat poznał, że zbawiony ludzki ród.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nW stajence Dziecię śpi, to Boży Syn,\nOn życie dał na okup naszych win.\nMaryjo uproś nam, by Syn Twój Bóg\nOddalał od nas wszelki ból i głód.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.",
-      "lyrics": "Gdy ziemię cichym snem okryła noc\nokazał nam Bóg dobroć swą i moc.\nPrzychodzi Boży Syn i stał się cud,\nŚwiat poznał, że zbawiony ludzki ród.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nW stajence Dziecię śpi, to Boży Syn,\nOn życie dał na okup naszych win.\nMaryjo uproś nam, by Syn Twój Bóg\nOddalał od nas wszelki ból i głód.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat."
+      ]
     },
     {
-      "id": "kol-015",
+      "id": "ss-015",
       "tytul": "Hej, w dzień narodzenia",
       "title": "Hej, w dzień narodzenia",
       "autorzy_i_informacje": [
         "sł. XVII w.",
         "muz. XVIII w."
       ],
+      "tekst": "Hej, w dzień narodzenia Syna Jedynego.\nOjca przedwiecznego, Boga prawdziwego.\nWesoło śpiewajmy,\nchwałę Bogu Dajmy.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nPanna porodziła niebieskie Dzieciątko.\nW żłobie położyła małe Pacholątko.\nPasterze śpiewają,\nna multankach grają.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nSkoro pastuszkowie o tym usłyszeli,\nzaraz do Betlejem czem prędzej bieżeli.\nWitając Dzieciątko,\nmałe Pacholątko.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nKuba nieboraczek nierychło przybieżał.\nŚpieszno bardzo było, wszystkiego odbieżał.\nPanu nie miał co dać,\nkazali mu śpiewać.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nDobył tak wdzięcznego głosu baraniego,\nże się Józef stary przestraszył od niego,\nJuż uciekać myśli,\nale drudzy przyszli.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!",
+      "lyrics": "Hej, w dzień narodzenia Syna Jedynego.\nOjca przedwiecznego, Boga prawdziwego.\nWesoło śpiewajmy,\nchwałę Bogu Dajmy.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nPanna porodziła niebieskie Dzieciątko.\nW żłobie położyła małe Pacholątko.\nPasterze śpiewają,\nna multankach grają.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nSkoro pastuszkowie o tym usłyszeli,\nzaraz do Betlejem czem prędzej bieżeli.\nWitając Dzieciątko,\nmałe Pacholątko.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nKuba nieboraczek nierychło przybieżał.\nŚpieszno bardzo było, wszystkiego odbieżał.\nPanu nie miał co dać,\nkazali mu śpiewać.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nDobył tak wdzięcznego głosu baraniego,\nże się Józef stary przestraszył od niego,\nJuż uciekać myśli,\nale drudzy przyszli.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -3584,18 +3589,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Hej, w dzień narodzenia Syna Jedynego.\nOjca przedwiecznego, Boga prawdziwego.\nWesoło śpiewajmy,\nchwałę Bogu Dajmy.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nPanna porodziła niebieskie Dzieciątko.\nW żłobie położyła małe Pacholątko.\nPasterze śpiewają,\nna multankach grają.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nSkoro pastuszkowie o tym usłyszeli,\nzaraz do Betlejem czem prędzej bieżeli.\nWitając Dzieciątko,\nmałe Pacholątko.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nKuba nieboraczek nierychło przybieżał.\nŚpieszno bardzo było, wszystkiego odbieżał.\nPanu nie miał co dać,\nkazali mu śpiewać.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nDobył tak wdzięcznego głosu baraniego,\nże się Józef stary przestraszył od niego,\nJuż uciekać myśli,\nale drudzy przyszli.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!",
-      "lyrics": "Hej, w dzień narodzenia Syna Jedynego.\nOjca przedwiecznego, Boga prawdziwego.\nWesoło śpiewajmy,\nchwałę Bogu Dajmy.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nPanna porodziła niebieskie Dzieciątko.\nW żłobie położyła małe Pacholątko.\nPasterze śpiewają,\nna multankach grają.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nSkoro pastuszkowie o tym usłyszeli,\nzaraz do Betlejem czem prędzej bieżeli.\nWitając Dzieciątko,\nmałe Pacholątko.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nKuba nieboraczek nierychło przybieżał.\nŚpieszno bardzo było, wszystkiego odbieżał.\nPanu nie miał co dać,\nkazali mu śpiewać.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nDobył tak wdzięcznego głosu baraniego,\nże się Józef stary przestraszył od niego,\nJuż uciekać myśli,\nale drudzy przyszli.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!"
+      ]
     },
     {
-      "id": "kol-016",
+      "id": "ss-016",
       "tytul": "Jakaż to gwiazda",
       "title": "Jakaż to gwiazda",
       "autorzy_i_informacje": [
         "sł. Julia Goczałkowska",
         "muz. ks. Odelgiewicz"
       ],
+      "tekst": "Jakaż to gwiazda błyszczy na wschodzie,\ngwiazda nowego imienia?\nMędrcy wołają: ciesz się narodzie,\nto gwiazda twego zbawienia.\nBiegną królowie za jej promieniem,\na za królami tłum ludu,\nbo im ta gwiazda świeci zbawieniem,\nbo im zwiastuje cudów.\nTen, co nam później miał być przykładem\nw miłości i poświęceniu,\ndziś niezgłębionych wyroków śladem\nzrodzon w nędzy, poniżeniu.\nW garstce barłogu skrył świętą głowę,\npalmę światłości, męczeństwa,\nco światu życie miała dać nowe,\nnad błędem odnieść zwycięstwa.\nPanie, ta gwiazda, co mędrców wiodła\ndo Chrystusowej kołyski,\nniech nas do Twego prowadzi źródła,\nświatowe przyćmi połyski.\nDo ostatniego życia zaniku\nBoskiego światła udziela,\nbyśmy tam zaszli po jej promyku,\ndo świętych stóp Zbawiciela.",
+      "lyrics": "Jakaż to gwiazda błyszczy na wschodzie,\ngwiazda nowego imienia?\nMędrcy wołają: ciesz się narodzie,\nto gwiazda twego zbawienia.\nBiegną królowie za jej promieniem,\na za królami tłum ludu,\nbo im ta gwiazda świeci zbawieniem,\nbo im zwiastuje cudów.\nTen, co nam później miał być przykładem\nw miłości i poświęceniu,\ndziś niezgłębionych wyroków śladem\nzrodzon w nędzy, poniżeniu.\nW garstce barłogu skrył świętą głowę,\npalmę światłości, męczeństwa,\nco światu życie miała dać nowe,\nnad błędem odnieść zwycięstwa.\nPanie, ta gwiazda, co mędrców wiodła\ndo Chrystusowej kołyski,\nniech nas do Twego prowadzi źródła,\nświatowe przyćmi połyski.\nDo ostatniego życia zaniku\nBoskiego światła udziela,\nbyśmy tam zaszli po jej promyku,\ndo świętych stóp Zbawiciela.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -3741,18 +3746,18 @@
           "styl_zrodlowy": "Zwrotka2",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Jakaż to gwiazda błyszczy na wschodzie,\ngwiazda nowego imienia?\nMędrcy wołają: ciesz się narodzie,\nto gwiazda twego zbawienia.\nBiegną królowie za jej promieniem,\na za królami tłum ludu,\nbo im ta gwiazda świeci zbawieniem,\nbo im zwiastuje cudów.\nTen, co nam później miał być przykładem\nw miłości i poświęceniu,\ndziś niezgłębionych wyroków śladem\nzrodzon w nędzy, poniżeniu.\nW garstce barłogu skrył świętą głowę,\npalmę światłości, męczeństwa,\nco światu życie miała dać nowe,\nnad błędem odnieść zwycięstwa.\nPanie, ta gwiazda, co mędrców wiodła\ndo Chrystusowej kołyski,\nniech nas do Twego prowadzi źródła,\nświatowe przyćmi połyski.\nDo ostatniego życia zaniku\nBoskiego światła udziela,\nbyśmy tam zaszli po jej promyku,\ndo świętych stóp Zbawiciela.",
-      "lyrics": "Jakaż to gwiazda błyszczy na wschodzie,\ngwiazda nowego imienia?\nMędrcy wołają: ciesz się narodzie,\nto gwiazda twego zbawienia.\nBiegną królowie za jej promieniem,\na za królami tłum ludu,\nbo im ta gwiazda świeci zbawieniem,\nbo im zwiastuje cudów.\nTen, co nam później miał być przykładem\nw miłości i poświęceniu,\ndziś niezgłębionych wyroków śladem\nzrodzon w nędzy, poniżeniu.\nW garstce barłogu skrył świętą głowę,\npalmę światłości, męczeństwa,\nco światu życie miała dać nowe,\nnad błędem odnieść zwycięstwa.\nPanie, ta gwiazda, co mędrców wiodła\ndo Chrystusowej kołyski,\nniech nas do Twego prowadzi źródła,\nświatowe przyćmi połyski.\nDo ostatniego życia zaniku\nBoskiego światła udziela,\nbyśmy tam zaszli po jej promyku,\ndo świętych stóp Zbawiciela."
+      ]
     },
     {
-      "id": "kol-017",
+      "id": "ss-017",
       "tytul": "Jakieś światło nad Betlejem",
       "title": "Jakieś światło nad Betlejem",
       "autorzy_i_informacje": [
         "sł. tradycyjne",
         "muz. tradycyjna"
       ],
+      "tekst": "Jakieś światło nad Betlejem się rozchodzi,\nw środku nocy zagubiony świat się budzi.\nDzisiaj właśnie dla nas Chrystus się narodził,\ndo nas przyszedł, bo ukochał wszystkich ludzi.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nA ze wschodu przyjechali Trzej Królowie\nKażdy myślał coś wielkiego tu zobaczyć,\nLecz zdziwili się ci wielcy monarchowie,\nŻe ich Pan jest maulusieńki i że płacze.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nJuż Pan zeszedł, prości ludzie idą z dala\nOddać pokłon Bogu, Panu nad panami.\nMyślą sobie: jakaż łaska nas spotkała,\nŻe Pan przyszedł, że chce mieszkać razem z nami.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.",
+      "lyrics": "Jakieś światło nad Betlejem się rozchodzi,\nw środku nocy zagubiony świat się budzi.\nDzisiaj właśnie dla nas Chrystus się narodził,\ndo nas przyszedł, bo ukochał wszystkich ludzi.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nA ze wschodu przyjechali Trzej Królowie\nKażdy myślał coś wielkiego tu zobaczyć,\nLecz zdziwili się ci wielcy monarchowie,\nŻe ich Pan jest maulusieńki i że płacze.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nJuż Pan zeszedł, prości ludzie idą z dala\nOddać pokłon Bogu, Panu nad panami.\nMyślą sobie: jakaż łaska nas spotkała,\nŻe Pan przyszedł, że chce mieszkać razem z nami.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -3970,18 +3975,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Jakieś światło nad Betlejem się rozchodzi,\nw środku nocy zagubiony świat się budzi.\nDzisiaj właśnie dla nas Chrystus się narodził,\ndo nas przyszedł, bo ukochał wszystkich ludzi.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nA ze wschodu przyjechali Trzej Królowie\nKażdy myślał coś wielkiego tu zobaczyć,\nLecz zdziwili się ci wielcy monarchowie,\nŻe ich Pan jest maulusieńki i że płacze.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nJuż Pan zeszedł, prości ludzie idą z dala\nOddać pokłon Bogu, Panu nad panami.\nMyślą sobie: jakaż łaska nas spotkała,\nŻe Pan przyszedł, że chce mieszkać razem z nami.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.",
-      "lyrics": "Jakieś światło nad Betlejem się rozchodzi,\nw środku nocy zagubiony świat się budzi.\nDzisiaj właśnie dla nas Chrystus się narodził,\ndo nas przyszedł, bo ukochał wszystkich ludzi.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nA ze wschodu przyjechali Trzej Królowie\nKażdy myślał coś wielkiego tu zobaczyć,\nLecz zdziwili się ci wielcy monarchowie,\nŻe ich Pan jest maulusieńki i że płacze.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nJuż Pan zeszedł, prości ludzie idą z dala\nOddać pokłon Bogu, Panu nad panami.\nMyślą sobie: jakaż łaska nas spotkała,\nŻe Pan przyszedł, że chce mieszkać razem z nami.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była."
+      ]
     },
     {
-      "id": "kol-018",
+      "id": "ss-018",
       "tytul": "Jezus malusieńki",
       "title": "Jezus malusieńki",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. XVIII w."
       ],
+      "tekst": "Jezus malusieńki\nleży wśród stajenki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nBo uboga była,\nrąbek z głowy zdjęła,\nw który dziecię uwinąwszy,\nsiankiem Je okryła.\nW który dziecię uwinąwszy,\nsiankiem Je okryła.\nNie ma kolebeczki,\nani poduszeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nGdy dziecina kwili,\npatrzy w każdej chwili,\nna dzieciątko boskie w żłóbku,\noko Jej nie myli.\nNa dzieciątko boskie w żłóbku,\noko Jej nie myli.\nPanienka truchleje,\na mówiąc łzy leje:\no mój synu! Wola Twoja,\nnie moja się dzieje.\nO mój synu! Wola Twoja,\nnie moja się dzieje.\nTylko nie płacz, proszę,\nbo żalu nie zniosę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę.",
+      "lyrics": "Jezus malusieńki\nleży wśród stajenki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nBo uboga była,\nrąbek z głowy zdjęła,\nw który dziecię uwinąwszy,\nsiankiem Je okryła.\nW który dziecię uwinąwszy,\nsiankiem Je okryła.\nNie ma kolebeczki,\nani poduszeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nGdy dziecina kwili,\npatrzy w każdej chwili,\nna dzieciątko boskie w żłóbku,\noko Jej nie myli.\nNa dzieciątko boskie w żłóbku,\noko Jej nie myli.\nPanienka truchleje,\na mówiąc łzy leje:\no mój synu! Wola Twoja,\nnie moja się dzieje.\nO mój synu! Wola Twoja,\nnie moja się dzieje.\nTylko nie płacz, proszę,\nbo żalu nie zniosę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -4199,18 +4204,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Jezus malusieńki\nleży wśród stajenki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nBo uboga była,\nrąbek z głowy zdjęła,\nw który dziecię uwinąwszy,\nsiankiem Je okryła.\nW który dziecię uwinąwszy,\nsiankiem Je okryła.\nNie ma kolebeczki,\nani poduszeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nGdy dziecina kwili,\npatrzy w każdej chwili,\nna dzieciątko boskie w żłóbku,\noko Jej nie myli.\nNa dzieciątko boskie w żłóbku,\noko Jej nie myli.\nPanienka truchleje,\na mówiąc łzy leje:\no mój synu! Wola Twoja,\nnie moja się dzieje.\nO mój synu! Wola Twoja,\nnie moja się dzieje.\nTylko nie płacz, proszę,\nbo żalu nie zniosę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę.",
-      "lyrics": "Jezus malusieńki\nleży wśród stajenki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nBo uboga była,\nrąbek z głowy zdjęła,\nw który dziecię uwinąwszy,\nsiankiem Je okryła.\nW który dziecię uwinąwszy,\nsiankiem Je okryła.\nNie ma kolebeczki,\nani poduszeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nGdy dziecina kwili,\npatrzy w każdej chwili,\nna dzieciątko boskie w żłóbku,\noko Jej nie myli.\nNa dzieciątko boskie w żłóbku,\noko Jej nie myli.\nPanienka truchleje,\na mówiąc łzy leje:\no mój synu! Wola Twoja,\nnie moja się dzieje.\nO mój synu! Wola Twoja,\nnie moja się dzieje.\nTylko nie płacz, proszę,\nbo żalu nie zniosę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę."
+      ]
     },
     {
-      "id": "kol-019",
+      "id": "ss-019",
       "tytul": "Jezusa narodzonego",
       "title": "Jezusa narodzonego",
       "autorzy_i_informacje": [
         "sł. Sz. Keller",
         "muz. Franciszek Walczyński"
       ],
+      "tekst": "Jezusa narodzonego wszyscy witajmy;\nJemu po kolędzie dary nasze dajmy.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za złoto wiarę, czyniąc wyznanie,\nŻe to Bóg i człowiek prawy leży na sianie;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy też za kadzidło Panu nadzieję,\nŻe Go będziem widzieć w niebie, mówiąc to śmiele;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za mirRę miłość na dowód tego,\nŻe Go nad wszystko kochamy, z serca całego;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nPrzyjmij, Jezu, na kolędę te nasze dary,\nPrzyjmij serca, dusze nasze za swe ofiary,\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków.\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków.",
+      "lyrics": "Jezusa narodzonego wszyscy witajmy;\nJemu po kolędzie dary nasze dajmy.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za złoto wiarę, czyniąc wyznanie,\nŻe to Bóg i człowiek prawy leży na sianie;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy też za kadzidło Panu nadzieję,\nŻe Go będziem widzieć w niebie, mówiąc to śmiele;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za mirRę miłość na dowód tego,\nŻe Go nad wszystko kochamy, z serca całego;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nPrzyjmij, Jezu, na kolędę te nasze dary,\nPrzyjmij serca, dusze nasze za swe ofiary,\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków.\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -4392,18 +4397,19 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Jezusa narodzonego wszyscy witajmy;\nJemu po kolędzie dary nasze dajmy.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za złoto wiarę, czyniąc wyznanie,\nŻe to Bóg i człowiek prawy leży na sianie;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy też za kadzidło Panu nadzieję,\nŻe Go będziem widzieć w niebie, mówiąc to śmiele;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za mirRę miłość na dowód tego,\nŻe Go nad wszystko kochamy, z serca całego;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nPrzyjmij, Jezu, na kolędę te nasze dary,\nPrzyjmij serca, dusze nasze za swe ofiary,\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków.\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków.",
-      "lyrics": "Jezusa narodzonego wszyscy witajmy;\nJemu po kolędzie dary nasze dajmy.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za złoto wiarę, czyniąc wyznanie,\nŻe to Bóg i człowiek prawy leży na sianie;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy też za kadzidło Panu nadzieję,\nŻe Go będziem widzieć w niebie, mówiąc to śmiele;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za mirRę miłość na dowód tego,\nŻe Go nad wszystko kochamy, z serca całego;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nPrzyjmij, Jezu, na kolędę te nasze dary,\nPrzyjmij serca, dusze nasze za swe ofiary,\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków.\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków."
+      ]
     },
     {
-      "id": "kol-020",
+      "id": "ss-020",
       "tytul": "Kolęda dla nieobecnych",
       "title": "Kolęda dla nieobecnych",
       "autorzy_i_informacje": [
         "sł. Zbigniew Preisner",
-        "muz. Zbigniew Preisner"
+        "muz. Zbigniew Preisner",
+        "wyk. Beata Robotycka"
       ],
+      "tekst": "A nadzieja znów wstąpi w nas,\nNieobecnych pojawią się cienie.\nUwierzymy kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł Świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nW brew tak zwanej ironii losu.\nDaj nam wiarę, że to ma sens,\nże nie trzeba żałować przyjaciół.\nŻe gdziekolwiek są dobrze im jest,\nbo są z nami choć w innej postaci.\nI przekonaj, że tak ma być,\nŻe po głosach tych wciąż drży powietrze.\nŻe odeszli po to by żyć.\nI tym razem będą żyć wiecznie.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nA nadzieja znów wstąpi w nas.\nNieobecnych pojawią się cienie.\nUwierzyli kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nwbrew tak zwanej ironii losu.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.",
+      "lyrics": "A nadzieja znów wstąpi w nas,\nNieobecnych pojawią się cienie.\nUwierzymy kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł Świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nW brew tak zwanej ironii losu.\nDaj nam wiarę, że to ma sens,\nże nie trzeba żałować przyjaciół.\nŻe gdziekolwiek są dobrze im jest,\nbo są z nami choć w innej postaci.\nI przekonaj, że tak ma być,\nŻe po głosach tych wciąż drży powietrze.\nŻe odeszli po to by żyć.\nI tym razem będą żyć wiecznie.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nA nadzieja znów wstąpi w nas.\nNieobecnych pojawią się cienie.\nUwierzyli kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nwbrew tak zwanej ironii losu.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.",
       "wersy": [
         {
           "typ": "refren",
@@ -4622,18 +4628,18 @@
           "odstep_przed": false
         }
       ],
-      "tekst": "A nadzieja znów wstąpi w nas,\nNieobecnych pojawią się cienie.\nUwierzymy kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł Świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nW brew tak zwanej ironii losu.\nDaj nam wiarę, że to ma sens,\nże nie trzeba żałować przyjaciół.\nŻe gdziekolwiek są dobrze im jest,\nbo są z nami choć w innej postaci.\nI przekonaj, że tak ma być,\nŻe po głosach tych wciąż drży powietrze.\nŻe odeszli po to by żyć.\nI tym razem będą żyć wiecznie.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nA nadzieja znów wstąpi w nas.\nNieobecnych pojawią się cienie.\nUwierzyli kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nwbrew tak zwanej ironii losu.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.",
-      "lyrics": "A nadzieja znów wstąpi w nas,\nNieobecnych pojawią się cienie.\nUwierzymy kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł Świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nW brew tak zwanej ironii losu.\nDaj nam wiarę, że to ma sens,\nże nie trzeba żałować przyjaciół.\nŻe gdziekolwiek są dobrze im jest,\nbo są z nami choć w innej postaci.\nI przekonaj, że tak ma być,\nŻe po głosach tych wciąż drży powietrze.\nŻe odeszli po to by żyć.\nI tym razem będą żyć wiecznie.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nA nadzieja znów wstąpi w nas.\nNieobecnych pojawią się cienie.\nUwierzyli kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nwbrew tak zwanej ironii losu.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.",
       "mp3": "koleda-dla-nieobecnych.mp3"
     },
     {
-      "id": "kol-021",
+      "id": "ss-021",
       "tytul": "Lulajże Jezuniu",
       "title": "Lulajże Jezuniu",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. XVIII w."
       ],
+      "tekst": "Lulajże Jezuniu, moja perełko.\nLulaj ulubione me pieścidełko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nZamknijże znużone płaczem powieczki.\nUtulże zemdlone łkaniem usteczki.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, przyjemna oczom gwiazdeczko.\nLulaj, najśliczniejsze świata słoneczko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nMy z Tobą, tam w niebie, spocząć pragniemy.\nCiebie, tu na ziemi, kochać będziemy.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.",
+      "lyrics": "Lulajże Jezuniu, moja perełko.\nLulaj ulubione me pieścidełko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nZamknijże znużone płaczem powieczki.\nUtulże zemdlone łkaniem usteczki.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, przyjemna oczom gwiazdeczko.\nLulaj, najśliczniejsze świata słoneczko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nMy z Tobą, tam w niebie, spocząć pragniemy.\nCiebie, tu na ziemi, kochać będziemy.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -4875,18 +4881,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Lulajże Jezuniu, moja perełko.\nLulaj ulubione me pieścidełko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nZamknijże znużone płaczem powieczki.\nUtulże zemdlone łkaniem usteczki.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, przyjemna oczom gwiazdeczko.\nLulaj, najśliczniejsze świata słoneczko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nMy z Tobą, tam w niebie, spocząć pragniemy.\nCiebie, tu na ziemi, kochać będziemy.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.",
-      "lyrics": "Lulajże Jezuniu, moja perełko.\nLulaj ulubione me pieścidełko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nZamknijże znużone płaczem powieczki.\nUtulże zemdlone łkaniem usteczki.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, przyjemna oczom gwiazdeczko.\nLulaj, najśliczniejsze świata słoneczko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nMy z Tobą, tam w niebie, spocząć pragniemy.\nCiebie, tu na ziemi, kochać będziemy.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj."
+      ]
     },
     {
-      "id": "kol-022",
+      "id": "ss-022",
       "tytul": "Mędrcy świata",
       "title": "Mędrcy świata",
       "autorzy_i_informacje": [
         "sł. Stefan Bortkiewicz",
         "muz. ks. Zygmunt Odelgiewicz"
       ],
+      "tekst": "Mędrcy świata, monarchowie,\ngdzie spiesznie dążycie?\nPowiedzcie nam, trzej królowie,\nchcecie widzieć Dziecię?\nOno w żłobie, nie ma tronu,\nni berła nie dzierży.\nA proroctwo Jego zgonu\njuż się w świecie szerzy.\nMędrcy świata, złość okrutna\ndziecię prześladuje.\nWieść okropna, wieść to smutna,\nHerod spisek knuje.\nNic monarchów nie odstrasza,\ndo Betlejem śpieszą.\nGwiazda Zbawcę im ogłasza,\nnadzieją się cieszą.\nPrzed Maryją stają społem,\nniosą Panu dary.\nPrzed Jezusem biją czołem,\nskładają ofiary.\nTrzykroć szczęśliwi królowie,\nktóż wam nie zazdrości?\nCóż my damy, kto nam powie,\npałając z miłości?\nTak, jak każą nam kapłani,\ndamy dar troisty:\nmodły, pracę niosąc w dani\ni żar serca czysty.\nTo kadzidło, mirrę, złoto\nniesiem, Jezu szczerze.\nCo dajemy Ci z ochotą,\nod nas przyjm w ofierze.",
+      "lyrics": "Mędrcy świata, monarchowie,\ngdzie spiesznie dążycie?\nPowiedzcie nam, trzej królowie,\nchcecie widzieć Dziecię?\nOno w żłobie, nie ma tronu,\nni berła nie dzierży.\nA proroctwo Jego zgonu\njuż się w świecie szerzy.\nMędrcy świata, złość okrutna\ndziecię prześladuje.\nWieść okropna, wieść to smutna,\nHerod spisek knuje.\nNic monarchów nie odstrasza,\ndo Betlejem śpieszą.\nGwiazda Zbawcę im ogłasza,\nnadzieją się cieszą.\nPrzed Maryją stają społem,\nniosą Panu dary.\nPrzed Jezusem biją czołem,\nskładają ofiary.\nTrzykroć szczęśliwi królowie,\nktóż wam nie zazdrości?\nCóż my damy, kto nam powie,\npałając z miłości?\nTak, jak każą nam kapłani,\ndamy dar troisty:\nmodły, pracę niosąc w dani\ni żar serca czysty.\nTo kadzidło, mirrę, złoto\nniesiem, Jezu szczerze.\nCo dajemy Ci z ochotą,\nod nas przyjm w ofierze.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -5080,18 +5086,18 @@
           "styl_zrodlowy": "Zwrotka2",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Mędrcy świata, monarchowie,\ngdzie spiesznie dążycie?\nPowiedzcie nam, trzej królowie,\nchcecie widzieć Dziecię?\nOno w żłobie, nie ma tronu,\nni berła nie dzierży.\nA proroctwo Jego zgonu\njuż się w świecie szerzy.\nMędrcy świata, złość okrutna\ndziecię prześladuje.\nWieść okropna, wieść to smutna,\nHerod spisek knuje.\nNic monarchów nie odstrasza,\ndo Betlejem śpieszą.\nGwiazda Zbawcę im ogłasza,\nnadzieją się cieszą.\nPrzed Maryją stają społem,\nniosą Panu dary.\nPrzed Jezusem biją czołem,\nskładają ofiary.\nTrzykroć szczęśliwi królowie,\nktóż wam nie zazdrości?\nCóż my damy, kto nam powie,\npałając z miłości?\nTak, jak każą nam kapłani,\ndamy dar troisty:\nmodły, pracę niosąc w dani\ni żar serca czysty.\nTo kadzidło, mirrę, złoto\nniesiem, Jezu szczerze.\nCo dajemy Ci z ochotą,\nod nas przyjm w ofierze.",
-      "lyrics": "Mędrcy świata, monarchowie,\ngdzie spiesznie dążycie?\nPowiedzcie nam, trzej królowie,\nchcecie widzieć Dziecię?\nOno w żłobie, nie ma tronu,\nni berła nie dzierży.\nA proroctwo Jego zgonu\njuż się w świecie szerzy.\nMędrcy świata, złość okrutna\ndziecię prześladuje.\nWieść okropna, wieść to smutna,\nHerod spisek knuje.\nNic monarchów nie odstrasza,\ndo Betlejem śpieszą.\nGwiazda Zbawcę im ogłasza,\nnadzieją się cieszą.\nPrzed Maryją stają społem,\nniosą Panu dary.\nPrzed Jezusem biją czołem,\nskładają ofiary.\nTrzykroć szczęśliwi królowie,\nktóż wam nie zazdrości?\nCóż my damy, kto nam powie,\npałając z miłości?\nTak, jak każą nam kapłani,\ndamy dar troisty:\nmodły, pracę niosąc w dani\ni żar serca czysty.\nTo kadzidło, mirrę, złoto\nniesiem, Jezu szczerze.\nCo dajemy Ci z ochotą,\nod nas przyjm w ofierze."
+      ]
     },
     {
-      "id": "kol-023",
+      "id": "ss-023",
       "tytul": "Mizerna cicha stajenka licha",
       "title": "Mizerna cicha stajenka licha",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. XIX w."
       ],
+      "tekst": "Mizerna, cicha, stajenka licha,\nPełna niebieskiej chwały,\nOto leżący, przed nami śpiący\nW promieniach Jezus mały.\nNad Nim Anieli w locie stanęli\nI pochyleni klęczą\nZ włosy złotymi, z skrzydły białymi,\nPod malowaną tęczą.\nWielkie zdziwienie: wszelkie stworzenie,\nCały świat orzeźwiony;\nMądrość Mądrości, Światłość Światłości,\nBóg-Człowiek tu wcielony.\nI oto mnodzy ludzie ubodzy\nRadzi oglądać Pana,\nPełni natchnienia, pewni zbawienia,\nUpadli na kolana.",
+      "lyrics": "Mizerna, cicha, stajenka licha,\nPełna niebieskiej chwały,\nOto leżący, przed nami śpiący\nW promieniach Jezus mały.\nNad Nim Anieli w locie stanęli\nI pochyleni klęczą\nZ włosy złotymi, z skrzydły białymi,\nPod malowaną tęczą.\nWielkie zdziwienie: wszelkie stworzenie,\nCały świat orzeźwiony;\nMądrość Mądrości, Światłość Światłości,\nBóg-Człowiek tu wcielony.\nI oto mnodzy ludzie ubodzy\nRadzi oglądać Pana,\nPełni natchnienia, pewni zbawienia,\nUpadli na kolana.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -5189,18 +5195,18 @@
           "styl_zrodlowy": "Zwrotka2",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Mizerna, cicha, stajenka licha,\nPełna niebieskiej chwały,\nOto leżący, przed nami śpiący\nW promieniach Jezus mały.\nNad Nim Anieli w locie stanęli\nI pochyleni klęczą\nZ włosy złotymi, z skrzydły białymi,\nPod malowaną tęczą.\nWielkie zdziwienie: wszelkie stworzenie,\nCały świat orzeźwiony;\nMądrość Mądrości, Światłość Światłości,\nBóg-Człowiek tu wcielony.\nI oto mnodzy ludzie ubodzy\nRadzi oglądać Pana,\nPełni natchnienia, pewni zbawienia,\nUpadli na kolana.",
-      "lyrics": "Mizerna, cicha, stajenka licha,\nPełna niebieskiej chwały,\nOto leżący, przed nami śpiący\nW promieniach Jezus mały.\nNad Nim Anieli w locie stanęli\nI pochyleni klęczą\nZ włosy złotymi, z skrzydły białymi,\nPod malowaną tęczą.\nWielkie zdziwienie: wszelkie stworzenie,\nCały świat orzeźwiony;\nMądrość Mądrości, Światłość Światłości,\nBóg-Człowiek tu wcielony.\nI oto mnodzy ludzie ubodzy\nRadzi oglądać Pana,\nPełni natchnienia, pewni zbawienia,\nUpadli na kolana."
+      ]
     },
     {
-      "id": "kol-024",
+      "id": "ss-024",
       "tytul": "Nie było miejsca dla Ciebie",
       "title": "Nie było miejsca dla Ciebie",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. XIX w."
       ],
+      "tekst": "Nie było miejsca dla Ciebie\nw Betlejem w żadnej gospodzie,\ni narodziłeś się, Jezu,\nw stajni, w ubóstwie i chłodzie.\nNie było miejsca, choć zszedłeś\njako Zbawiciel na Ziemię,\nby wyrwać z czarta niewoli\nnieszczęsne Adama plemię.\nNie było miejsca, choć chciałeś\nludzkość przytulić do łona,\ni podać z krzyża grzesznikom\nzbawcze, skrwawione ramiona.\nNie było miejsca choć szedłeś\nogień miłości zapalić,\ni przez swą mękę najdroższą\nświat od zagłady ocalić.\nGdy liszki mają swe jamy\ni ptaszki swoje gniazdeczka,\ndla Ciebie brakło gospody,\nTyś musiał szukać żłóbeczka.\nA dzisiaj czemu wśród ludzi\ntyle łez, jęków, katuszy?\nBo nie ma miejsca dla Ciebie\nw niejednej człowieczej duszy.",
+      "lyrics": "Nie było miejsca dla Ciebie\nw Betlejem w żadnej gospodzie,\ni narodziłeś się, Jezu,\nw stajni, w ubóstwie i chłodzie.\nNie było miejsca, choć zszedłeś\njako Zbawiciel na Ziemię,\nby wyrwać z czarta niewoli\nnieszczęsne Adama plemię.\nNie było miejsca, choć chciałeś\nludzkość przytulić do łona,\ni podać z krzyża grzesznikom\nzbawcze, skrwawione ramiona.\nNie było miejsca choć szedłeś\nogień miłości zapalić,\ni przez swą mękę najdroższą\nświat od zagłady ocalić.\nGdy liszki mają swe jamy\ni ptaszki swoje gniazdeczka,\ndla Ciebie brakło gospody,\nTyś musiał szukać żłóbeczka.\nA dzisiaj czemu wśród ludzi\ntyle łez, jęków, katuszy?\nBo nie ma miejsca dla Ciebie\nw niejednej człowieczej duszy.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -5346,18 +5352,18 @@
           "styl_zrodlowy": "Zwrotka2",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Nie było miejsca dla Ciebie\nw Betlejem w żadnej gospodzie,\ni narodziłeś się, Jezu,\nw stajni, w ubóstwie i chłodzie.\nNie było miejsca, choć zszedłeś\njako Zbawiciel na Ziemię,\nby wyrwać z czarta niewoli\nnieszczęsne Adama plemię.\nNie było miejsca, choć chciałeś\nludzkość przytulić do łona,\ni podać z krzyża grzesznikom\nzbawcze, skrwawione ramiona.\nNie było miejsca choć szedłeś\nogień miłości zapalić,\ni przez swą mękę najdroższą\nświat od zagłady ocalić.\nGdy liszki mają swe jamy\ni ptaszki swoje gniazdeczka,\ndla Ciebie brakło gospody,\nTyś musiał szukać żłóbeczka.\nA dzisiaj czemu wśród ludzi\ntyle łez, jęków, katuszy?\nBo nie ma miejsca dla Ciebie\nw niejednej człowieczej duszy.",
-      "lyrics": "Nie było miejsca dla Ciebie\nw Betlejem w żadnej gospodzie,\ni narodziłeś się, Jezu,\nw stajni, w ubóstwie i chłodzie.\nNie było miejsca, choć zszedłeś\njako Zbawiciel na Ziemię,\nby wyrwać z czarta niewoli\nnieszczęsne Adama plemię.\nNie było miejsca, choć chciałeś\nludzkość przytulić do łona,\ni podać z krzyża grzesznikom\nzbawcze, skrwawione ramiona.\nNie było miejsca choć szedłeś\nogień miłości zapalić,\ni przez swą mękę najdroższą\nświat od zagłady ocalić.\nGdy liszki mają swe jamy\ni ptaszki swoje gniazdeczka,\ndla Ciebie brakło gospody,\nTyś musiał szukać żłóbeczka.\nA dzisiaj czemu wśród ludzi\ntyle łez, jęków, katuszy?\nBo nie ma miejsca dla Ciebie\nw niejednej człowieczej duszy."
+      ]
     },
     {
-      "id": "kol-025",
+      "id": "ss-025",
       "tytul": "Oj maluśki, maluśki...",
       "title": "Oj maluśki, maluśki...",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. XIX w."
       ],
+      "tekst": "Oj maluśki, maluśki, maluśki\njako rekawicka,\nalbo li tyz jakoby, jakoby\nkawałecek smycka.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nCy nie lepiej by Tobie, by Tobie\nsiedzieć było w niebie?\nWsak Twój Tatuś kochany, kochany\nnie wyganiał Ciebie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ci zawse słuzyły, słuzyły\nprześlicne anioły.\nA tu lezys sam jeden, sam jeden\njako palec goły.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam pijałeś ceć jakie, ceć jakie\nsłodkie małmazje.\nTu się Twoja gębusia, gębusia\nłez gorskich napije.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam wciornaska wygoda, wygoda,\na tu bieda wsędzie.\nTa Ci teraz dokuca, dokuca,\nta i potem będzie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ty miałeś pościółkę, pościółkę\ni mietkie piernatki.\nTu na to Twej nie stanie, nie stanie\nubozuchnej Matki.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam kukiołki jadałeś, jadałeś\nz carnuską i miodem.\nTu się tylko zasilać, zasilać\nmusis samym głodem.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nHej, co się więc takiego, takiego\nTobie, Panie stało,\nześ się na ten kiepski świat, kiepski świat\nprzychodzić chciało?\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…",
+      "lyrics": "Oj maluśki, maluśki, maluśki\njako rekawicka,\nalbo li tyz jakoby, jakoby\nkawałecek smycka.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nCy nie lepiej by Tobie, by Tobie\nsiedzieć było w niebie?\nWsak Twój Tatuś kochany, kochany\nnie wyganiał Ciebie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ci zawse słuzyły, słuzyły\nprześlicne anioły.\nA tu lezys sam jeden, sam jeden\njako palec goły.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam pijałeś ceć jakie, ceć jakie\nsłodkie małmazje.\nTu się Twoja gębusia, gębusia\nłez gorskich napije.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam wciornaska wygoda, wygoda,\na tu bieda wsędzie.\nTa Ci teraz dokuca, dokuca,\nta i potem będzie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ty miałeś pościółkę, pościółkę\ni mietkie piernatki.\nTu na to Twej nie stanie, nie stanie\nubozuchnej Matki.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam kukiołki jadałeś, jadałeś\nz carnuską i miodem.\nTu się tylko zasilać, zasilać\nmusis samym głodem.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nHej, co się więc takiego, takiego\nTobie, Panie stało,\nześ się na ten kiepski świat, kiepski świat\nprzychodzić chciało?\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -5839,18 +5845,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Oj maluśki, maluśki, maluśki\njako rekawicka,\nalbo li tyz jakoby, jakoby\nkawałecek smycka.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nCy nie lepiej by Tobie, by Tobie\nsiedzieć było w niebie?\nWsak Twój Tatuś kochany, kochany\nnie wyganiał Ciebie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ci zawse słuzyły, słuzyły\nprześlicne anioły.\nA tu lezys sam jeden, sam jeden\njako palec goły.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam pijałeś ceć jakie, ceć jakie\nsłodkie małmazje.\nTu się Twoja gębusia, gębusia\nłez gorskich napije.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam wciornaska wygoda, wygoda,\na tu bieda wsędzie.\nTa Ci teraz dokuca, dokuca,\nta i potem będzie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ty miałeś pościółkę, pościółkę\ni mietkie piernatki.\nTu na to Twej nie stanie, nie stanie\nubozuchnej Matki.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam kukiołki jadałeś, jadałeś\nz carnuską i miodem.\nTu się tylko zasilać, zasilać\nmusis samym głodem.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nHej, co się więc takiego, takiego\nTobie, Panie stało,\nześ się na ten kiepski świat, kiepski świat\nprzychodzić chciało?\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…",
-      "lyrics": "Oj maluśki, maluśki, maluśki\njako rekawicka,\nalbo li tyz jakoby, jakoby\nkawałecek smycka.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nCy nie lepiej by Tobie, by Tobie\nsiedzieć było w niebie?\nWsak Twój Tatuś kochany, kochany\nnie wyganiał Ciebie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ci zawse słuzyły, słuzyły\nprześlicne anioły.\nA tu lezys sam jeden, sam jeden\njako palec goły.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam pijałeś ceć jakie, ceć jakie\nsłodkie małmazje.\nTu się Twoja gębusia, gębusia\nłez gorskich napije.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam wciornaska wygoda, wygoda,\na tu bieda wsędzie.\nTa Ci teraz dokuca, dokuca,\nta i potem będzie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ty miałeś pościółkę, pościółkę\ni mietkie piernatki.\nTu na to Twej nie stanie, nie stanie\nubozuchnej Matki.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam kukiołki jadałeś, jadałeś\nz carnuską i miodem.\nTu się tylko zasilać, zasilać\nmusis samym głodem.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nHej, co się więc takiego, takiego\nTobie, Panie stało,\nześ się na ten kiepski świat, kiepski świat\nprzychodzić chciało?\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…"
+      ]
     },
     {
-      "id": "kol-026",
+      "id": "ss-026",
       "tytul": "Pójdźmy wszyscy do stajenki",
       "title": "Pójdźmy wszyscy do stajenki",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. Piotr Studziński"
       ],
+      "tekst": "Pójdźmy wszyscy do stajenki,\ndo Jezusa i Panienki.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nWitaj, Jezu ukochany,\nod Patryarchów czekany.\nOd Proroków ogłoszony,\nod narodów upragniony.\nOd Proroków ogłoszony,\nod narodów upragniony.\nWitaj, Dziecineczko w żłobie,\nwyznajemy Boga w Tobie.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nWitaj, Jezu nam zjawiony,\nwitaj, dwakroć narodzony.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nKtóż to słyszał takie dziwy?\nTyś człowiek i Bóg prawdziwy.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nO szczęśliwi pastuszkowie,\nktóż radość waszą wypowie!\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nO Jezu, nasze kochanie,\nczemu nad niebios mieszkanie.\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nMiłości to Twojej dzieło\nz miłości początek wzięło.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nSpraw to, Jezu, Boskie Dziecię.\nNiech Cię kochamy nad życie.\nNiech miłością odwdzięczamy\nmiłość, której doznawamy.\nNiech miłością odwdzięczamy\nMiłość, której doznawamy.\nŚwięta Panno, Twa przyczyna\nniech nam wyjedna u Syna.\nBy to Jego narodzenie\nzapewniło nam zbawienie.\nBy to Jego narodzenie\nzapewniło nam zbawienie.",
+      "lyrics": "Pójdźmy wszyscy do stajenki,\ndo Jezusa i Panienki.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nWitaj, Jezu ukochany,\nod Patryarchów czekany.\nOd Proroków ogłoszony,\nod narodów upragniony.\nOd Proroków ogłoszony,\nod narodów upragniony.\nWitaj, Dziecineczko w żłobie,\nwyznajemy Boga w Tobie.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nWitaj, Jezu nam zjawiony,\nwitaj, dwakroć narodzony.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nKtóż to słyszał takie dziwy?\nTyś człowiek i Bóg prawdziwy.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nO szczęśliwi pastuszkowie,\nktóż radość waszą wypowie!\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nO Jezu, nasze kochanie,\nczemu nad niebios mieszkanie.\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nMiłości to Twojej dzieło\nz miłości początek wzięło.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nSpraw to, Jezu, Boskie Dziecię.\nNiech Cię kochamy nad życie.\nNiech miłością odwdzięczamy\nmiłość, której doznawamy.\nNiech miłością odwdzięczamy\nMiłość, której doznawamy.\nŚwięta Panno, Twa przyczyna\nniech nam wyjedna u Syna.\nBy to Jego narodzenie\nzapewniło nam zbawienie.\nBy to Jego narodzenie\nzapewniło nam zbawienie.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -6212,18 +6218,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Pójdźmy wszyscy do stajenki,\ndo Jezusa i Panienki.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nWitaj, Jezu ukochany,\nod Patryarchów czekany.\nOd Proroków ogłoszony,\nod narodów upragniony.\nOd Proroków ogłoszony,\nod narodów upragniony.\nWitaj, Dziecineczko w żłobie,\nwyznajemy Boga w Tobie.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nWitaj, Jezu nam zjawiony,\nwitaj, dwakroć narodzony.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nKtóż to słyszał takie dziwy?\nTyś człowiek i Bóg prawdziwy.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nO szczęśliwi pastuszkowie,\nktóż radość waszą wypowie!\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nO Jezu, nasze kochanie,\nczemu nad niebios mieszkanie.\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nMiłości to Twojej dzieło\nz miłości początek wzięło.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nSpraw to, Jezu, Boskie Dziecię.\nNiech Cię kochamy nad życie.\nNiech miłością odwdzięczamy\nmiłość, której doznawamy.\nNiech miłością odwdzięczamy\nMiłość, której doznawamy.\nŚwięta Panno, Twa przyczyna\nniech nam wyjedna u Syna.\nBy to Jego narodzenie\nzapewniło nam zbawienie.\nBy to Jego narodzenie\nzapewniło nam zbawienie.",
-      "lyrics": "Pójdźmy wszyscy do stajenki,\ndo Jezusa i Panienki.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nWitaj, Jezu ukochany,\nod Patryarchów czekany.\nOd Proroków ogłoszony,\nod narodów upragniony.\nOd Proroków ogłoszony,\nod narodów upragniony.\nWitaj, Dziecineczko w żłobie,\nwyznajemy Boga w Tobie.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nWitaj, Jezu nam zjawiony,\nwitaj, dwakroć narodzony.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nKtóż to słyszał takie dziwy?\nTyś człowiek i Bóg prawdziwy.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nO szczęśliwi pastuszkowie,\nktóż radość waszą wypowie!\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nO Jezu, nasze kochanie,\nczemu nad niebios mieszkanie.\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nMiłości to Twojej dzieło\nz miłości początek wzięło.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nSpraw to, Jezu, Boskie Dziecię.\nNiech Cię kochamy nad życie.\nNiech miłością odwdzięczamy\nmiłość, której doznawamy.\nNiech miłością odwdzięczamy\nMiłość, której doznawamy.\nŚwięta Panno, Twa przyczyna\nniech nam wyjedna u Syna.\nBy to Jego narodzenie\nzapewniło nam zbawienie.\nBy to Jego narodzenie\nzapewniło nam zbawienie."
+      ]
     },
     {
-      "id": "kol-027",
+      "id": "ss-027",
       "tytul": "Przybieżeli do Betlejem pasterze",
       "title": "Przybieżeli do Betlejem pasterze",
       "autorzy_i_informacje": [
         "sł.???",
         "muz. ???"
       ],
+      "tekst": "Przybieżeli do Betlejem pasterze,\ngrając skocznie Dzieciąteczku na lirze.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nOddawali swe ukłony w pokorze\nTobie, z serca ochotnego, o Boże!\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nAnioł Pański sam ogłosił te dziwy,\nktórych oni nie słyszeli, jak żywi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nI Anieli gromadami pilnują,\nPanna czysta wraz z Józefem piastują.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nPoznali Go Mesjaszem być prawym,\nnarodzonym dzisiaj Panem łaskawym.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nMy Go także Bogiem, Zbawcą już znamy\ni z całego serca wszyscy kochamy.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.",
+      "lyrics": "Przybieżeli do Betlejem pasterze,\ngrając skocznie Dzieciąteczku na lirze.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nOddawali swe ukłony w pokorze\nTobie, z serca ochotnego, o Boże!\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nAnioł Pański sam ogłosił te dziwy,\nktórych oni nie słyszeli, jak żywi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nI Anieli gromadami pilnują,\nPanna czysta wraz z Józefem piastują.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nPoznali Go Mesjaszem być prawym,\nnarodzonym dzisiaj Panem łaskawym.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nMy Go także Bogiem, Zbawcą już znamy\ni z całego serca wszyscy kochamy.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -6513,18 +6519,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Przybieżeli do Betlejem pasterze,\ngrając skocznie Dzieciąteczku na lirze.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nOddawali swe ukłony w pokorze\nTobie, z serca ochotnego, o Boże!\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nAnioł Pański sam ogłosił te dziwy,\nktórych oni nie słyszeli, jak żywi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nI Anieli gromadami pilnują,\nPanna czysta wraz z Józefem piastują.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nPoznali Go Mesjaszem być prawym,\nnarodzonym dzisiaj Panem łaskawym.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nMy Go także Bogiem, Zbawcą już znamy\ni z całego serca wszyscy kochamy.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.",
-      "lyrics": "Przybieżeli do Betlejem pasterze,\ngrając skocznie Dzieciąteczku na lirze.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nOddawali swe ukłony w pokorze\nTobie, z serca ochotnego, o Boże!\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nAnioł Pański sam ogłosił te dziwy,\nktórych oni nie słyszeli, jak żywi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nI Anieli gromadami pilnują,\nPanna czysta wraz z Józefem piastują.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nPoznali Go Mesjaszem być prawym,\nnarodzonym dzisiaj Panem łaskawym.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nMy Go także Bogiem, Zbawcą już znamy\ni z całego serca wszyscy kochamy.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi."
+      ]
     },
     {
-      "id": "kol-028",
+      "id": "ss-028",
       "tytul": "Triumfy Króla niebieskiego",
       "title": "Triumfy Króla niebieskiego",
       "autorzy_i_informacje": [
         "sł. ???",
         "muz. ???"
       ],
+      "tekst": "Triumfy Króla niebieskiego\nZstąpiły z nieba wysokiego.\nPobudziły pasterzów,\nDobytku swego stróżów,\nŚpiewaniem, śpiewaniem, śpiewaniem.\nChwała bądź Bogu w wysokości,\nA ludziom pokój na niskości.\nNarodził się Zbawiciel,\nDusz ludzkich Odkupiciel,\nNa ziemi, na ziemi, na ziemi.\nZrodziła Maryja Dziewica\nWiecznego Boga bez rodzica,\nBy nas z piekła wybawił,\nA w niebieskich postawił.\nPałacach, pałacach, pałacach.\nPasterze w podziwieniu stają,\nTriumfu przyczynę badają,\nCo się nowego dzieje,\nŻe tak światłość jaśnieje.\nNie wiedzą, nie wiedzą, nie wiedzą.\nŻe to Bóg, gdy się dowiedzieli,\nSwej trzody w polu odbieżeli,\nŚpiesząc na powitanie\nDo Betlejemskiej stajni.\nDzieciątka, Dzieciątka, Dzieciątka.\nNiebieskim światłem oświeceni,\npokornie przed nim uniżeni,\nBogiem Go być prawdziwym\nz serca afektem żywym.\nWyznają, wyznają, wyznają.\nI które mieli z sobą dary\nDzieciątku dają na ofiary:\nprzyjmij, o Narodzony\nnas i dar przyniesiony.\nZ ochotą, z ochotą, z ochotą.",
+      "lyrics": "Triumfy Króla niebieskiego\nZstąpiły z nieba wysokiego.\nPobudziły pasterzów,\nDobytku swego stróżów,\nŚpiewaniem, śpiewaniem, śpiewaniem.\nChwała bądź Bogu w wysokości,\nA ludziom pokój na niskości.\nNarodził się Zbawiciel,\nDusz ludzkich Odkupiciel,\nNa ziemi, na ziemi, na ziemi.\nZrodziła Maryja Dziewica\nWiecznego Boga bez rodzica,\nBy nas z piekła wybawił,\nA w niebieskich postawił.\nPałacach, pałacach, pałacach.\nPasterze w podziwieniu stają,\nTriumfu przyczynę badają,\nCo się nowego dzieje,\nŻe tak światłość jaśnieje.\nNie wiedzą, nie wiedzą, nie wiedzą.\nŻe to Bóg, gdy się dowiedzieli,\nSwej trzody w polu odbieżeli,\nŚpiesząc na powitanie\nDo Betlejemskiej stajni.\nDzieciątka, Dzieciątka, Dzieciątka.\nNiebieskim światłem oświeceni,\npokornie przed nim uniżeni,\nBogiem Go być prawdziwym\nz serca afektem żywym.\nWyznają, wyznają, wyznają.\nI które mieli z sobą dary\nDzieciątku dają na ofiary:\nprzyjmij, o Narodzony\nnas i dar przyniesiony.\nZ ochotą, z ochotą, z ochotą.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -6736,18 +6742,18 @@
           "styl_zrodlowy": "Zwrotka1",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Triumfy Króla niebieskiego\nZstąpiły z nieba wysokiego.\nPobudziły pasterzów,\nDobytku swego stróżów,\nŚpiewaniem, śpiewaniem, śpiewaniem.\nChwała bądź Bogu w wysokości,\nA ludziom pokój na niskości.\nNarodził się Zbawiciel,\nDusz ludzkich Odkupiciel,\nNa ziemi, na ziemi, na ziemi.\nZrodziła Maryja Dziewica\nWiecznego Boga bez rodzica,\nBy nas z piekła wybawił,\nA w niebieskich postawił.\nPałacach, pałacach, pałacach.\nPasterze w podziwieniu stają,\nTriumfu przyczynę badają,\nCo się nowego dzieje,\nŻe tak światłość jaśnieje.\nNie wiedzą, nie wiedzą, nie wiedzą.\nŻe to Bóg, gdy się dowiedzieli,\nSwej trzody w polu odbieżeli,\nŚpiesząc na powitanie\nDo Betlejemskiej stajni.\nDzieciątka, Dzieciątka, Dzieciątka.\nNiebieskim światłem oświeceni,\npokornie przed nim uniżeni,\nBogiem Go być prawdziwym\nz serca afektem żywym.\nWyznają, wyznają, wyznają.\nI które mieli z sobą dary\nDzieciątku dają na ofiary:\nprzyjmij, o Narodzony\nnas i dar przyniesiony.\nZ ochotą, z ochotą, z ochotą.",
-      "lyrics": "Triumfy Króla niebieskiego\nZstąpiły z nieba wysokiego.\nPobudziły pasterzów,\nDobytku swego stróżów,\nŚpiewaniem, śpiewaniem, śpiewaniem.\nChwała bądź Bogu w wysokości,\nA ludziom pokój na niskości.\nNarodził się Zbawiciel,\nDusz ludzkich Odkupiciel,\nNa ziemi, na ziemi, na ziemi.\nZrodziła Maryja Dziewica\nWiecznego Boga bez rodzica,\nBy nas z piekła wybawił,\nA w niebieskich postawił.\nPałacach, pałacach, pałacach.\nPasterze w podziwieniu stają,\nTriumfu przyczynę badają,\nCo się nowego dzieje,\nŻe tak światłość jaśnieje.\nNie wiedzą, nie wiedzą, nie wiedzą.\nŻe to Bóg, gdy się dowiedzieli,\nSwej trzody w polu odbieżeli,\nŚpiesząc na powitanie\nDo Betlejemskiej stajni.\nDzieciątka, Dzieciątka, Dzieciątka.\nNiebieskim światłem oświeceni,\npokornie przed nim uniżeni,\nBogiem Go być prawdziwym\nz serca afektem żywym.\nWyznają, wyznają, wyznają.\nI które mieli z sobą dary\nDzieciątku dają na ofiary:\nprzyjmij, o Narodzony\nnas i dar przyniesiony.\nZ ochotą, z ochotą, z ochotą."
+      ]
     },
     {
-      "id": "kol-029",
+      "id": "ss-029",
       "tytul": "W dzień Bożego Narodzenia",
       "title": "W dzień Bożego Narodzenia",
       "autorzy_i_informacje": [
         "sł. tradycyjne",
         "muz. tradycyjna"
       ],
+      "tekst": "W dzień Bożego Narodzenia,\nRadość wszelkiego stworzenia\nAniołowie się radują,\nJezusowi wyśpiewują, wyśpiewują.\nNiesłychana to nowina,\nPanna porodziła Syna,\nSyna Jednorodzonego,\nBoga Ojca niebieskiego, niebieskiego.\nTo Anieli oznajmują,\nDo Betlejem pokazują,\nGdzie narodził się Zbawiciel,\nWszego świata Odkupiciel, Odkupiciel.\nGdy pasterze usłyszeli,\nDo stajenki pobieżeli,\nDzieciąteczku się kłaniają,\nPodarunki oddawają, oddawają.\nChwała Bogu niechaj będzie\nW niebie i na ziemi, wszędzie\nZ Aniołami się radujmy,\nJezusowi wyśpiewujmy, wyśpiewujmy",
+      "lyrics": "W dzień Bożego Narodzenia,\nRadość wszelkiego stworzenia\nAniołowie się radują,\nJezusowi wyśpiewują, wyśpiewują.\nNiesłychana to nowina,\nPanna porodziła Syna,\nSyna Jednorodzonego,\nBoga Ojca niebieskiego, niebieskiego.\nTo Anieli oznajmują,\nDo Betlejem pokazują,\nGdzie narodził się Zbawiciel,\nWszego świata Odkupiciel, Odkupiciel.\nGdy pasterze usłyszeli,\nDo stajenki pobieżeli,\nDzieciąteczku się kłaniają,\nPodarunki oddawają, oddawają.\nChwała Bogu niechaj będzie\nW niebie i na ziemi, wszędzie\nZ Aniołami się radujmy,\nJezusowi wyśpiewujmy, wyśpiewujmy",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -6869,18 +6875,18 @@
           "styl_zrodlowy": "Zwrotka1",
           "odstep_przed": false
         }
-      ],
-      "tekst": "W dzień Bożego Narodzenia,\nRadość wszelkiego stworzenia\nAniołowie się radują,\nJezusowi wyśpiewują, wyśpiewują.\nNiesłychana to nowina,\nPanna porodziła Syna,\nSyna Jednorodzonego,\nBoga Ojca niebieskiego, niebieskiego.\nTo Anieli oznajmują,\nDo Betlejem pokazują,\nGdzie narodził się Zbawiciel,\nWszego świata Odkupiciel, Odkupiciel.\nGdy pasterze usłyszeli,\nDo stajenki pobieżeli,\nDzieciąteczku się kłaniają,\nPodarunki oddawają, oddawają.\nChwała Bogu niechaj będzie\nW niebie i na ziemi, wszędzie\nZ Aniołami się radujmy,\nJezusowi wyśpiewujmy, wyśpiewujmy",
-      "lyrics": "W dzień Bożego Narodzenia,\nRadość wszelkiego stworzenia\nAniołowie się radują,\nJezusowi wyśpiewują, wyśpiewują.\nNiesłychana to nowina,\nPanna porodziła Syna,\nSyna Jednorodzonego,\nBoga Ojca niebieskiego, niebieskiego.\nTo Anieli oznajmują,\nDo Betlejem pokazują,\nGdzie narodził się Zbawiciel,\nWszego świata Odkupiciel, Odkupiciel.\nGdy pasterze usłyszeli,\nDo stajenki pobieżeli,\nDzieciąteczku się kłaniają,\nPodarunki oddawają, oddawają.\nChwała Bogu niechaj będzie\nW niebie i na ziemi, wszędzie\nZ Aniołami się radujmy,\nJezusowi wyśpiewujmy, wyśpiewujmy"
+      ]
     },
     {
-      "id": "kol-030",
+      "id": "ss-030",
       "tytul": "W żłobie leży",
       "title": "W żłobie leży",
       "autorzy_i_informacje": [
         "sł. ks. Piotr Skarga",
         "muz. XVIII w."
       ],
+      "tekst": "W żłobie leży, któż pobieży\nkolędować Małemu.\nJezusowi Chrystusowi\ndziś do nas zesłanemu?\nPastuszkowie przybywajcie,\njemu wdzięcznie przygrywajcie,\njako Panu swojemu.\nMy zaś sami z piosneczkami\nza wami pośpieszymy.\nA tak tego Maleńkiego\nniech wszyscy zobaczymy.\nJak ubogo narodzony,\npłacze w stajni położony,\nwięc Go dziś ucieszymy.\nNaprzód tedy, niechaj wszędy\nzabrzmi świat w wesołości.\nŻe posłany, nam jest dany\nEmanuel w niskości.\nJego tedy przywitajmy,\nz Aniołami zaśpiewajmy:\n„Chwała na wysokości”.\nWitaj, Panie, cóż się stanie\nże rozkosze niebieskie,\nopuściłeś, a zstąpiłeś\nna te niskości ziemskie.\n„Miłość moja to sprawiła,\nby człowieka wywyższyła,\npod nieba empirejskie”.",
+      "lyrics": "W żłobie leży, któż pobieży\nkolędować Małemu.\nJezusowi Chrystusowi\ndziś do nas zesłanemu?\nPastuszkowie przybywajcie,\njemu wdzięcznie przygrywajcie,\njako Panu swojemu.\nMy zaś sami z piosneczkami\nza wami pośpieszymy.\nA tak tego Maleńkiego\nniech wszyscy zobaczymy.\nJak ubogo narodzony,\npłacze w stajni położony,\nwięc Go dziś ucieszymy.\nNaprzód tedy, niechaj wszędy\nzabrzmi świat w wesołości.\nŻe posłany, nam jest dany\nEmanuel w niskości.\nJego tedy przywitajmy,\nz Aniołami zaśpiewajmy:\n„Chwała na wysokości”.\nWitaj, Panie, cóż się stanie\nże rozkosze niebieskie,\nopuściłeś, a zstąpiłeś\nna te niskości ziemskie.\n„Miłość moja to sprawiła,\nby człowieka wywyższyła,\npod nieba empirejskie”.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -7050,18 +7056,18 @@
           "styl_zrodlowy": "Zwrotka2",
           "odstep_przed": false
         }
-      ],
-      "tekst": "W żłobie leży, któż pobieży\nkolędować Małemu.\nJezusowi Chrystusowi\ndziś do nas zesłanemu?\nPastuszkowie przybywajcie,\njemu wdzięcznie przygrywajcie,\njako Panu swojemu.\nMy zaś sami z piosneczkami\nza wami pośpieszymy.\nA tak tego Maleńkiego\nniech wszyscy zobaczymy.\nJak ubogo narodzony,\npłacze w stajni położony,\nwięc Go dziś ucieszymy.\nNaprzód tedy, niechaj wszędy\nzabrzmi świat w wesołości.\nŻe posłany, nam jest dany\nEmanuel w niskości.\nJego tedy przywitajmy,\nz Aniołami zaśpiewajmy:\n„Chwała na wysokości”.\nWitaj, Panie, cóż się stanie\nże rozkosze niebieskie,\nopuściłeś, a zstąpiłeś\nna te niskości ziemskie.\n„Miłość moja to sprawiła,\nby człowieka wywyższyła,\npod nieba empirejskie”.",
-      "lyrics": "W żłobie leży, któż pobieży\nkolędować Małemu.\nJezusowi Chrystusowi\ndziś do nas zesłanemu?\nPastuszkowie przybywajcie,\njemu wdzięcznie przygrywajcie,\njako Panu swojemu.\nMy zaś sami z piosneczkami\nza wami pośpieszymy.\nA tak tego Maleńkiego\nniech wszyscy zobaczymy.\nJak ubogo narodzony,\npłacze w stajni położony,\nwięc Go dziś ucieszymy.\nNaprzód tedy, niechaj wszędy\nzabrzmi świat w wesołości.\nŻe posłany, nam jest dany\nEmanuel w niskości.\nJego tedy przywitajmy,\nz Aniołami zaśpiewajmy:\n„Chwała na wysokości”.\nWitaj, Panie, cóż się stanie\nże rozkosze niebieskie,\nopuściłeś, a zstąpiłeś\nna te niskości ziemskie.\n„Miłość moja to sprawiła,\nby człowieka wywyższyła,\npod nieba empirejskie”."
+      ]
     },
     {
-      "id": "kol-031",
+      "id": "ss-031",
       "tytul": "Wesołą nowinę",
       "title": "Wesołą nowinę",
       "autorzy_i_informacje": [
         "sł. tradycyjne",
         "muz. tradycyjna"
       ],
+      "tekst": "Wesołą nowinę, bracia, słuchajcie.\nNiebieską Dziecinę ze mną witajcie.\nJak miła ta nowina?\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nBogu chwałę wznosząc na wysokości\npokój ludziom głoszą duchy świętości.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nPanna nam powiła Boskie Dzieciątko\npokłonem uczciła to Niemowlątko.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nKtórego zrodziła, Bogiem uznała\ni panną jak była, Panną została.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nUbodzy pasterze pierwsi przybyli\nJezusowi Panu pokłon złożyli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.",
+      "lyrics": "Wesołą nowinę, bracia, słuchajcie.\nNiebieską Dziecinę ze mną witajcie.\nJak miła ta nowina?\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nBogu chwałę wznosząc na wysokości\npokój ludziom głoszą duchy świętości.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nPanna nam powiła Boskie Dzieciątko\npokłonem uczciła to Niemowlątko.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nKtórego zrodziła, Bogiem uznała\ni panną jak była, Panną została.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nUbodzy pasterze pierwsi przybyli\nJezusowi Panu pokłon złożyli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -7303,18 +7309,18 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Wesołą nowinę, bracia, słuchajcie.\nNiebieską Dziecinę ze mną witajcie.\nJak miła ta nowina?\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nBogu chwałę wznosząc na wysokości\npokój ludziom głoszą duchy świętości.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nPanna nam powiła Boskie Dzieciątko\npokłonem uczciła to Niemowlątko.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nKtórego zrodziła, Bogiem uznała\ni panną jak była, Panną została.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nUbodzy pasterze pierwsi przybyli\nJezusowi Panu pokłon złożyli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.",
-      "lyrics": "Wesołą nowinę, bracia, słuchajcie.\nNiebieską Dziecinę ze mną witajcie.\nJak miła ta nowina?\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nBogu chwałę wznosząc na wysokości\npokój ludziom głoszą duchy świętości.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nPanna nam powiła Boskie Dzieciątko\npokłonem uczciła to Niemowlątko.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nKtórego zrodziła, Bogiem uznała\ni panną jak była, Panną została.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nUbodzy pasterze pierwsi przybyli\nJezusowi Panu pokłon złożyli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli."
+      ]
     },
     {
-      "id": "kol-032",
+      "id": "ss-032",
       "tytul": "Wśród nocnej ciszy",
       "title": "Wśród nocnej ciszy",
       "autorzy_i_informacje": [
         "sł. XVIII w.",
         "muz. XIX w."
       ],
+      "tekst": "Wśród nocnej ciszy,\ngłos się rozchodzi.\nWstańcie pasterze,\nBóg się wam rodzi!\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nPoszli, znaleźli\nDzieciątko w żłobie.\nZ wszystkimi znaki,\ndanymi sobie.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\n„Ach witaj, Zbawco;\nz dawna żądany.\nTyle tysięcy lat\nwyglądany!\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nI my czekamy\nna Ciebie, Pana.\nA skoro przyjdziesz\nna głos kapłana.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina.",
+      "lyrics": "Wśród nocnej ciszy,\ngłos się rozchodzi.\nWstańcie pasterze,\nBóg się wam rodzi!\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nPoszli, znaleźli\nDzieciątko w żłobie.\nZ wszystkimi znaki,\ndanymi sobie.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\n„Ach witaj, Zbawco;\nz dawna żądany.\nTyle tysięcy lat\nwyglądany!\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nI my czekamy\nna Ciebie, Pana.\nA skoro przyjdziesz\nna głos kapłana.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -7556,202 +7562,200 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ],
-      "tekst": "Wśród nocnej ciszy,\ngłos się rozchodzi.\nWstańcie pasterze,\nBóg się wam rodzi!\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nPoszli, znaleźli\nDzieciątko w żłobie.\nZ wszystkimi znaki,\ndanymi sobie.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\n„Ach witaj, Zbawco;\nz dawna żądany.\nTyle tysięcy lat\nwyglądany!\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nI my czekamy\nna Ciebie, Pana.\nA skoro przyjdziesz\nna głos kapłana.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina.",
-      "lyrics": "Wśród nocnej ciszy,\ngłos się rozchodzi.\nWstańcie pasterze,\nBóg się wam rodzi!\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nPoszli, znaleźli\nDzieciątko w żłobie.\nZ wszystkimi znaki,\ndanymi sobie.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\n„Ach witaj, Zbawco;\nz dawna żądany.\nTyle tysięcy lat\nwyglądany!\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nI my czekamy\nna Ciebie, Pana.\nA skoro przyjdziesz\nna głos kapłana.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina."
+      ]
     }
   ],
   "songs": [
     {
-      "id": "kol-001",
+      "id": "ss-001",
       "title": "A cóż z tą Dzieciną",
-      "author": "muz. tradycyjne\nsł. tradycyjne",
+      "author": "muz. tradycyjne | sł. tradycyjne | wyk. Martyna Jakubowicz | a-coz-z-ta-dziecina.mp3",
       "lyrics": "A cóż z tą Dzieciną będziemy czynili\nPastuszkowie mili, że się nam kwili?\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nZaśpiewajmy Mu wesoło\ni obróćmy się z Nim w koło,\nhoc hoc hoc hoc hoc.\nPodobno Dzieciątko, że głodne płacze,\nDlatego tak z nami nierade skacze.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nWięc ja Mu dam kukiełeczkę\ni masełka osełeczkę.\nLa la la la la.\nJuż ci nie chce płakać Dziecina dłużej,\nAle ukojone oczęta mruży.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nWięc Go włóżmy w kolebeczkę,\nZaśpiewajmy Mu piosneczkę.\nLu lu lu lu lu.\nAlbo Dziecięciu w dudki zagrajmy\nI na piszczałeczkach rozweselajmy.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nLi li li li, moje dudki,\nskacz Robaczku, mój malutki.\nLi li li li li.\nPókiż tego będzie? Dość tego dzieci,\nA czemuż nie idzie spać drugi, trzeci?\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać.\nDosyć osioł i wół beczy,\nbudzą Dziecię, nie do rzeczy.\nSpać, spać, spać, spać, spać."
     },
     {
-      "id": "kol-002",
+      "id": "ss-002",
       "title": "A wczora z wieczora",
-      "author": "muz. tradycyjne\nsł. tradycyjne",
+      "author": "muz. tradycyjne | sł. tradycyjne | wyk. Enej",
       "lyrics": "A wczora z wieczora, a wczora z wieczora\nz niebieskiego dwora, z niebieskiego dwora.\nPrzyszła nam nowina, przyszła nam nowina:\nPanna rodzi syna, panna rodzi syna.\nBoga prawdziwego, Boga prawdziwego\nnieogarnionego, nieogarnionego.\nZa wyrokiem Boskim, za wyrokiem Boskim,\nw Betlejem żydowskim, w Betlejem żydowskim.\nPastuszkowie mali, pastuszkowie mali,\nw polu wtenczas spali, w polu wtenczas spali.\nGdy Anioł z północy, gdy Anioł z północy,\nświatłość z nieba toczy, światłość z nieba toczy.\nChwałę oznajmując, chwałę oznajmując,\nszopę pokazując, szopę pokazując.\nChwałę Boga tego, chwałę Boga tego,\ndziś nam zrodzonego, dziś nam zrodzonego.\nTam Panna Dzieciątko, tam Panna Dzieciątko\nmiłe Niemowlątko, miłe Niemowlątko,\nuwija w pieluszki, uwija w pieluszki\npośpieszcie pastuszki, pośpieszcie pastuszki!\nNatychmiast pastuszy, natychmiast pastuszy\nśpieszą z całej duszy, śpieszą z całej duszy.\nWeseli bez miary, Weseli bez miary\nniosą z sobą dary, niosą z sobą dary.\nMądrości druhowie, mądrości druhowie\nz daleka królowie, z daleka królowie\npragną widzieć swego, pragną widzieć swego\nStwórcę przedwiecznego, Stwórcę przedwiecznego.\nDziś Mu pokłon dają, dziś Mu pokłon dają\nw ciele oglądają, w ciele oglądają.\nKażdy się dziwuje, każdy się dziwuje,\nże Bóg nas miłuje, że Bóg nas miłuje.\nI my też pośpieszmy, i my też pośpieszmy\nJezusa ucieszmy, Jezusa ucieszmy.\nZe serca darami, ze serca darami:\nmodlitwą, cnotami, modlitwą, cnotami.\nJezu najmilejszy, Jezu najmilejszy,\nze wszech najwdzięczniejszy, ze wszech najwdzięczniejszy\nzmiłuj się nad nami, zmiłuj się nad nami\ngrzesznymi sługami, grzesznymi sługami."
     },
     {
-      "id": "kol-003",
+      "id": "ss-003",
       "title": "Ach, ubogi w żłobie",
-      "author": "sł. XVIII w.\nmuz. Piotr Studziński",
+      "author": "sł. XVIII w. | muz. Piotr Studziński",
       "lyrics": "Ach, ubogi w żłobie,\ncóż ja widzę w Tobie.\nDroższy widok niż ma niebo,\nw maleńkiej osobie,\nDroższy widok niż ma niebo,\nw maleńkiej osobie.\nZbawicielu drogi,\njakżeś to ubogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nOpuściłeś śliczne niebo,\nobrałeś barłogi.\nCzyżeś nie mógł Sobie,\nw największej ozdobie,\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nobrać pałacu drogiego,\nniż w tym leżeć żłobie?\nPrzed Tobą padamy,\nczołem uderzamy.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nWitając Cię w tej stajence\nmiędzy bydlętami.\nGdy na świat przybywasz,\ngrzechy z niego zmywasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz.\nA na zmycie tej sprośności,\ngorzkie łzy wylewasz."
     },
     {
-      "id": "kol-004",
+      "id": "ss-004",
       "title": "Anioł pasterzom mówił",
-      "author": "sł. XVI w.\nmuz. XVII w.",
+      "author": "sł. XVI w. | muz. XVII w.",
       "lyrics": "Anioł pasterzom mówił,\nChrystus się wam narodził.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nW Betlejem, nie bardzo podłym mieście.\nNarodził się w ubóstwie.\nPan wszego stworzenia.\nChcąc się dowiedzieć tego\nposelstwa wesołego.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nBieżeli do Betlejem skwapliwie.\nZnaleźli dziecię w żłobie,\nMaryję z Józefem.\nTaki Pan chwały wielkiej.\nUniżył się Wysoki.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nPałacu kosztownego żadnego\nnie miał zbudowanego.\nPan waszego stworzenia.\nO dziwne narodzenie,\nNigdy niewysławione!\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nPoczęła Panna Syna w czystości,\nPorodziła w całości\nPanieństwa swojego.\nJuż się ono spełniło,\nCo pod figurą było:\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nArona różdżka ona zielona\nStała się nam kwitnąca\nI owoc rodząca.\nSłuchajcież Boga Ojca,\nJako wam Go zaleca:\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nTen ci jest Syn najmilszy,\nJedyny, w raju wam obiecany,\nTego wy słuchajcie.\nBogu bądź cześć i chwała,\nKtóra byś nie ustała,\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu.\nJako Ojcu, tak i Jego Synowi\nI Świętemu Duchowi,\nW Trójcy jedynemu."
     },
     {
-      "id": "kol-005",
+      "id": "ss-005",
       "title": "Bóg się rodzi",
-      "author": "muz. XIX w.\nsł. Franciszek Karpiński",
+      "author": "muz. XIX w. | sł. Franciszek Karpiński",
       "lyrics": "Bóg się rodzi, moc truchleje,\nPan niebiosów obnażony.\nOgień krzepnie, blask ciemnieje,\nMa granice Nieskończony!\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nWzgardzony okryty chwałą,\nŚmiertelny Król nad wiekami!\nA Słowo ciałem się stało\nI mieszkało między nami.\nCóż masz, niebo nad ziemiany?\nBóg porzucił szczęście swoje,\nWszedł między lud ukochany,\nDzieląc z nim trudy i znoje.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nNiemało cierpiał, niemało,\nŻeśmy byli winni sami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPodnieś rękę, Boże Dziecię,\nBłogosław ojczyznę miłą,\nW dobrych radach, dobrym bycie,\nWspieraj jej siłę swą siłą.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nDom nasz i majętność całą,\nI wszystkie wioski z miastami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nW nędznej szopie urodzony,\nŻłób Mu za kolebkę dano!\nCóż jest, czym był otoczony?\nBydło, pasterze i siano.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nUbodzy, was to spotkało,\nWitać Go przed bogaczami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nPotem i króle widziani,\nCisną się między prostotą,\nNiosąc dary Panu w dani:\nMirrę, kadzidło i złoto.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami.\nBóstwo to razem zmieszało,\nZ wieśniaczymi ofiarami,\nA Słowo ciałem się stało\nI mieszkało między nami."
     },
     {
-      "id": "kol-006",
+      "id": "ss-006",
       "title": "Bracia, patrzcie jeno",
-      "author": "sł. tradycyjne\nmuz. ks. Antoni Dąbrowski",
+      "author": "sł. tradycyjne | muz. ks. Antoni Dąbrowski",
       "lyrics": "Bracie, patrzcie jeno,\njak niebo goreje!\nZnać, że coś dziwnego\nw Betlejem się dzieje.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nRzućmy budy, warty, stada,\nniechaj nimi Pan Bóg włada.\nA my do Betlejem, do Betlejem.\nWszakże powiedziałem,\nże cuda ujrzymy:\nDziecię, Boga świata,\nw żłobie zobaczymy.\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak biednie okryte\nw żłobie Panię znakomite.\nW szopie przy Betlejem, przy Betlejem\nPatrzcie, jak tam gwiazda\nświatłem swoim miga,\nPewnie dla uczczenia\nPana swego ściga.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nKrokiem śmiałym i wesołym\nśpieszmy i uderzmy czołem\nprzed Panem w Betlejem, w Betlejem.\nObchodząc pamiątkę\nodwiedzin pasterzy,\nKażdy czciciel Boga,\nco w Chrystusa wierzy,\nNiech się cieszy i raduje,\nże Zbawcę swego znajduje\nw szopie przy Betlejem, przy Betlejem."
     },
     {
-      "id": "kol-007",
+      "id": "ss-007",
       "title": "Cicha noc",
-      "author": "sł. Piotr Maszyński\nmuz. Franz X. Gruber",
+      "author": "sł. Piotr Maszyński | muz. Franz X. Gruber",
       "lyrics": "Cicha noc, Święta noc.\nPokój niesie ludziom wszem.\nA u żłóbka Matka Święta\nczuwa sama uśmiechnięta.\nNad Dzieciątka snem,\nnad Dzieciątka snem.\nCicha noc, Święta noc.\nPastuszkowie od swych trzód\nbiegną wielce zadziwieni,\nza anielskim głosem pieni.\nGdzie się spełnił cud,\ngdzie się spełnił cud.\nCicha noc, Święta noc.\nNarodzony Boży Syn,\npan wielkiego majestatu,\nniesie dziś całemu światu.\nOdkupienie win,\nodkupienie win.\nCicha noc, Święta noc.\nJakiż w tobie dzisiaj cud.\nW Betlejem Dziecina święta\nwznosi w górę swe rączęta.\nBłogosławi lud,\nbłogosławi lud."
     },
     {
-      "id": "kol-008",
+      "id": "ss-008",
       "title": "Cieszmy się",
-      "author": "sł. XVIII w.\nmuz. XX w.",
+      "author": "sł. XVIII w. | muz. XX w.",
       "lyrics": "Cieszmy się i pod niebiosy\nwznośmy razem miłe głosy,\nbo wesoła dziś nowina:\nczysta Panna rodzi syna.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nZłożyła Go na sianeczku,\nmiędzy bydlęty w żłóbeczku,\nAniołowie Go witają,\nchwałę z wysoka śpiewają,\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nTrzej królowie ode wschodu\nZ darami swego narodu,\nDo Betlejem pośpieszają,\nPokłon i dary Mu dają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nPastuszkowie na znak dany,\nZnalazłszy Pana nad pany,\nZ pociechą serca witają,\nBogiem Go swoim wyznają.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego.\nBijcie w kotły, w Traby grajcie,\ni Jezusa przywitajcie Nowonarodzonego."
     },
     {
-      "id": "kol-009",
+      "id": "ss-009",
       "title": "Dnia jednego",
-      "author": "sł. XVIII w.\nmuz. XVIII w.",
+      "author": "sł. XVIII w. | muz. XVIII w.",
       "lyrics": "Dnia jednego o północy,\ngdym zasnął w ciężkiej niemocy.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nNie wiem, czy na jawie, czy mi się śniło,\nże wedle mej budy słońce świeciło.\nSam się czym prędzej porwałem\ni na drugich zawołałem.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNa Kubę, na Maćka i na Kaźmierza,\nby wstali, czym prędzej mówić pacierza.\nNie zaraz się podźwignęli,\nbo byli twardo zasnęli;\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nAlem ich po trochu wziął za czuprynę,\nby wstali, bieżeli, witać Dziecinę.\nPorwali się, biegli drogą,\ngdzie widzieli jasność srogą:\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nW Betlejem miasteczku, gdzie Dziecię było,\nktóre się dla wszystkich na świat zjawiło.\nWbiegliśmy zaraz do szopy,\nuściskaliśmy Mu stopy;\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu.\nJam dobył fujary, a Kuba rogu,\ngraliśmy wesoło na chwałę Bogu."
     },
     {
-      "id": "kol-010",
+      "id": "ss-010",
       "title": "Do szopy, hej pasterze",
-      "author": "sł. J.A. Gwoździkowski\nmuz. J.A. Gwoździkowski",
+      "author": "sł. J.A. Gwoździkowski | muz. J.A. Gwoździkowski",
       "lyrics": "Do szopy, hej pasterze,\ndo szopy, bo tam cud!\nSyn Boży w żłobie leży,\nby zbawić ludzki ród.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nPadnijmy na kolana,\nTo Dziecię to nasz Bóg,\nWitajmy swego Pana;\nWdzięczności złóżmy dług.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nO Boże niepojęty, kto\nPojmie miłość Twą?\nNa sianie wśród bydlęty,\nMasz tron i służbę swą.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nJezuniu mój najsłodszy,\nTobie oddaję się.\nO skarbie mój najdroższy,\nRacz wziąć na własność mnie.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu.\nŚpiewajcie aniołowie,\npasterze grajcie Mu.\nKłaniajcie się królowie,\nnie budźcie Go ze snu."
     },
     {
-      "id": "kol-011",
+      "id": "ss-011",
       "title": "Dzisiaj w Betlejem",
-      "author": "sł. ks. Jan Siedlecki\nmuz. ks. Jan Siedlecki",
+      "author": "sł. ks. Jan Siedlecki | muz. ks. Jan Siedlecki",
       "lyrics": "Dzisiaj w Betlejem, dzisiaj w Betlejem\nwesoła nowina.\nŻe Panna czysta, że Panna czysta\nporodziła Syna!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nMaryja Panna, Maryja Panna,\ndzieciątko piastuje.\nI Józef święty, i Józef święty\nono pielęgnuje.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChoć w stajeneczce, choć w stajeneczce,\npanna Syna rodzi.\nPrzecież On wkrótce, przecież On wkrótce\nludzi oswobodzi.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nI trzej królowie, i trzej królowie\nod wschodu przybyli.\nI dary Panu, i dary Panu\nkosztowne złożyli.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nPójdźmy też i my, pójdźmy też i my\nprzywitać Jezusa.\nKróla nad królami, Króla nad królami,\nuwielbić Chrystusa.\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!\nChrystus się rodzi, nas oswobodzi,\nanieli grają króle witają,\npasterze śpiewają, bydlęta klękają,\ncuda, cuda ogłaszają!"
     },
     {
-      "id": "kol-012",
+      "id": "ss-012",
       "title": "Gdy się Chrystus rodzi",
-      "author": "sł. tradycyjne\nmuz. tradycyjna",
+      "author": "sł. tradycyjne | muz. tradycyjna",
       "lyrics": "Gdy się Chrystus rodzi\ni na świat przychodzi,\nciemna noc w jasnościach\npromienistych brodzi.\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nAniołowie się radują,\npod niebiosy wyśpiewują:\nGloria, gloria, gloria,\nin excelsis De eo!\nMówią do pasterzy,\nktórzy trzód swych strzegli,\naby do Betlejem\nczym prędzej pobiegli,\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo się narodził Zbawiciel,\nwszego świata Odkupiciel,\nGloria, gloria, gloria,\nin excelsis De eo!\nO, niebieskie duchy\ni posłowie nieba,\npowiedzcież wyraźniej,\nco nam czynić trzeba,\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nBo my nic nie pojmujemy,\nledwo od strachu żyjemy,\nGloria, gloria, gloria,\nin excelsis De eo!\nIdźcie do Betlejem,\ngdzie Dziecię zrodzone,\nw pieluszki powite,\nw żłobie położone;\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!\nOddajcie mu pokłon boski,\non osłodzi wasze troski.\nGloria, gloria, gloria,\nin excelsis De eo!"
     },
     {
-      "id": "kol-013",
+      "id": "ss-013",
       "title": "Gdy śliczna Panna",
-      "author": "sł. XVIII w.\nmuz. XVII w",
+      "author": "sł. XVIII w. | muz. XVII w",
       "lyrics": "Gdy śliczna Panna Syna kołysała,\nwielkim weselem tak jemu śpiewała:\nLili, lili laj, moje Dzieciąteczko,\nLili, lili laj, śliczne Paniąteczko.\nWszystko stworzenie, śpiewaj Panu swemu,\nPomóż radości wielkiej sercu memu.\nLi li li li laj, wielki królewicu,\nLi li li li laj, niebieski dziedzicu!\nSypcie się z nieba, śliczni aniołowie,\nŚpiewajcie Panu, niebiescy duchowie:\nLi li li li laj, mój wonny kwiateczku,\nLi li li li laj, w ubogim żłobeczku."
     },
     {
-      "id": "kol-014",
+      "id": "ss-014",
       "title": "Gdy ziemię cichym snem",
-      "author": "sł. ks. Hieronim Chamski\nmuz. austriacka",
+      "author": "sł. ks. Hieronim Chamski | muz. austriacka",
       "lyrics": "Gdy ziemię cichym snem okryła noc\nokazał nam Bóg dobroć swą i moc.\nPrzychodzi Boży Syn i stał się cud,\nŚwiat poznał, że zbawiony ludzki ród.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nW stajence Dziecię śpi, to Boży Syn,\nOn życie dał na okup naszych win.\nMaryjo uproś nam, by Syn Twój Bóg\nOddalał od nas wszelki ból i głód.\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat.\nVenite a doremus Dominum!\nVenite a doremus Dominum!\nKłaniamy się Chryste, Panie nasz,\nBo pragniesz zbawić nas i cały świat."
     },
     {
-      "id": "kol-015",
+      "id": "ss-015",
       "title": "Hej, w dzień narodzenia",
-      "author": "sł. XVII w.\nmuz. XVIII w.",
+      "author": "sł. XVII w. | muz. XVIII w.",
       "lyrics": "Hej, w dzień narodzenia Syna Jedynego.\nOjca przedwiecznego, Boga prawdziwego.\nWesoło śpiewajmy,\nchwałę Bogu Dajmy.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nPanna porodziła niebieskie Dzieciątko.\nW żłobie położyła małe Pacholątko.\nPasterze śpiewają,\nna multankach grają.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nSkoro pastuszkowie o tym usłyszeli,\nzaraz do Betlejem czem prędzej bieżeli.\nWitając Dzieciątko,\nmałe Pacholątko.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nKuba nieboraczek nierychło przybieżał.\nŚpieszno bardzo było, wszystkiego odbieżał.\nPanu nie miał co dać,\nkazali mu śpiewać.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!\nDobył tak wdzięcznego głosu baraniego,\nże się Józef stary przestraszył od niego,\nJuż uciekać myśli,\nale drudzy przyszli.\nHej, kolęda, kolęda!\nHej, kolęda, kolęda!"
     },
     {
-      "id": "kol-016",
+      "id": "ss-016",
       "title": "Jakaż to gwiazda",
-      "author": "sł. Julia Goczałkowska\nmuz. ks. Odelgiewicz",
+      "author": "sł. Julia Goczałkowska | muz. ks. Odelgiewicz",
       "lyrics": "Jakaż to gwiazda błyszczy na wschodzie,\ngwiazda nowego imienia?\nMędrcy wołają: ciesz się narodzie,\nto gwiazda twego zbawienia.\nBiegną królowie za jej promieniem,\na za królami tłum ludu,\nbo im ta gwiazda świeci zbawieniem,\nbo im zwiastuje cudów.\nTen, co nam później miał być przykładem\nw miłości i poświęceniu,\ndziś niezgłębionych wyroków śladem\nzrodzon w nędzy, poniżeniu.\nW garstce barłogu skrył świętą głowę,\npalmę światłości, męczeństwa,\nco światu życie miała dać nowe,\nnad błędem odnieść zwycięstwa.\nPanie, ta gwiazda, co mędrców wiodła\ndo Chrystusowej kołyski,\nniech nas do Twego prowadzi źródła,\nświatowe przyćmi połyski.\nDo ostatniego życia zaniku\nBoskiego światła udziela,\nbyśmy tam zaszli po jej promyku,\ndo świętych stóp Zbawiciela."
     },
     {
-      "id": "kol-017",
+      "id": "ss-017",
       "title": "Jakieś światło nad Betlejem",
-      "author": "sł. tradycyjne\nmuz. tradycyjna",
+      "author": "sł. tradycyjne | muz. tradycyjna",
       "lyrics": "Jakieś światło nad Betlejem się rozchodzi,\nw środku nocy zagubiony świat się budzi.\nDzisiaj właśnie dla nas Chrystus się narodził,\ndo nas przyszedł, bo ukochał wszystkich ludzi.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nA ze wschodu przyjechali Trzej Królowie\nKażdy myślał coś wielkiego tu zobaczyć,\nLecz zdziwili się ci wielcy monarchowie,\nŻe ich Pan jest maulusieńki i że płacze.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nJuż Pan zeszedł, prości ludzie idą z dala\nOddać pokłon Bogu, Panu nad panami.\nMyślą sobie: jakaż łaska nas spotkała,\nŻe Pan przyszedł, że chce mieszkać razem z nami.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była.\nTeraz śpij, Dziecino mała.\nTeraz śpij, Dziecino miła.\nZiemia bogactw Ci nie dała,\nbo bez Ciebie biedną była."
     },
     {
-      "id": "kol-018",
+      "id": "ss-018",
       "title": "Jezus malusieńki",
-      "author": "sł. XVIII w.\nmuz. XVIII w.",
+      "author": "sł. XVIII w. | muz. XVIII w.",
       "lyrics": "Jezus malusieńki\nleży wśród stajenki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nPłacze z zimna, nie dała mu\nMatusia sukienki.\nBo uboga była,\nrąbek z głowy zdjęła,\nw który dziecię uwinąwszy,\nsiankiem Je okryła.\nW który dziecię uwinąwszy,\nsiankiem Je okryła.\nNie ma kolebeczki,\nani poduszeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nWe żłobie Mu położyła\nsiana pod główeczki.\nGdy dziecina kwili,\npatrzy w każdej chwili,\nna dzieciątko boskie w żłóbku,\noko Jej nie myli.\nNa dzieciątko boskie w żłóbku,\noko Jej nie myli.\nPanienka truchleje,\na mówiąc łzy leje:\no mój synu! Wola Twoja,\nnie moja się dzieje.\nO mój synu! Wola Twoja,\nnie moja się dzieje.\nTylko nie płacz, proszę,\nbo żalu nie zniosę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę.\nDosyć go mam z męki Twojej,\nktórą w sercu noszę."
     },
     {
-      "id": "kol-019",
+      "id": "ss-019",
       "title": "Jezusa narodzonego",
-      "author": "sł. Sz. Keller\nmuz. Franciszek Walczyński",
+      "author": "sł. Sz. Keller | muz. Franciszek Walczyński",
       "lyrics": "Jezusa narodzonego wszyscy witajmy;\nJemu po kolędzie dary nasze dajmy.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za złoto wiarę, czyniąc wyznanie,\nŻe to Bóg i człowiek prawy leży na sianie;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy też za kadzidło Panu nadzieję,\nŻe Go będziem widzieć w niebie, mówiąc to śmiele;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy za mirRę miłość na dowód tego,\nŻe Go nad wszystko kochamy, z serca całego;\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nOddajmy wesoło, skłaniajmy swe czoło,\nSkłaniajmy swe czoło Panu naszemu.\nPrzyjmij, Jezu, na kolędę te nasze dary,\nPrzyjmij serca, dusze nasze za swe ofiary,\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków.\nByśmy kiedyś w niebie posiąść mogli Ciebie,\nPosiąść mogli Ciebie na wieki wieków."
     },
     {
-      "id": "kol-020",
+      "id": "ss-020",
       "title": "Kolęda dla nieobecnych",
-      "author": "sł. Zbigniew Preisner\nmuz. Zbigniew Preisner",
+      "author": "sł. Zbigniew Preisner | muz. Zbigniew Preisner | wyk. Beata Robotycka",
       "lyrics": "A nadzieja znów wstąpi w nas,\nNieobecnych pojawią się cienie.\nUwierzymy kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł Świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nW brew tak zwanej ironii losu.\nDaj nam wiarę, że to ma sens,\nże nie trzeba żałować przyjaciół.\nŻe gdziekolwiek są dobrze im jest,\nbo są z nami choć w innej postaci.\nI przekonaj, że tak ma być,\nŻe po głosach tych wciąż drży powietrze.\nŻe odeszli po to by żyć.\nI tym razem będą żyć wiecznie.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nA nadzieja znów wstąpi w nas.\nNieobecnych pojawią się cienie.\nUwierzyli kolejny raz,\nw jeszcze jedno Boże Narodzenie.\nI choć przygasł świąteczny gwar,\nbo zabrakło znów czyjegoś głosu.\nPrzyjdź tu do nas i z nami trwaj,\nwbrew tak zwanej ironii losu.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole.\nPrzyjdź na świat, by wyrównać rachunki strat.\nŻeby zająć wśród nas puste miejsce przy stole.\nJeszcze raz pozwól cieszyć się dzieckiem w nas,\ni zapomnieć, że są puste miejsca przy stole."
     },
     {
-      "id": "kol-021",
+      "id": "ss-021",
       "title": "Lulajże Jezuniu",
-      "author": "sł. XVIII w.\nmuz. XVIII w.",
+      "author": "sł. XVIII w. | muz. XVIII w.",
       "lyrics": "Lulajże Jezuniu, moja perełko.\nLulaj ulubione me pieścidełko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nZamknijże znużone płaczem powieczki.\nUtulże zemdlone łkaniem usteczki.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, przyjemna oczom gwiazdeczko.\nLulaj, najśliczniejsze świata słoneczko.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nMy z Tobą, tam w niebie, spocząć pragniemy.\nCiebie, tu na ziemi, kochać będziemy.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj.\nLulajże, Jezuniu,\nlulajże lulaj.\nA Ty Go Matulu\nw płaczu utulaj."
     },
     {
-      "id": "kol-022",
+      "id": "ss-022",
       "title": "Mędrcy świata",
-      "author": "sł. Stefan Bortkiewicz\nmuz. ks. Zygmunt Odelgiewicz",
+      "author": "sł. Stefan Bortkiewicz | muz. ks. Zygmunt Odelgiewicz",
       "lyrics": "Mędrcy świata, monarchowie,\ngdzie spiesznie dążycie?\nPowiedzcie nam, trzej królowie,\nchcecie widzieć Dziecię?\nOno w żłobie, nie ma tronu,\nni berła nie dzierży.\nA proroctwo Jego zgonu\njuż się w świecie szerzy.\nMędrcy świata, złość okrutna\ndziecię prześladuje.\nWieść okropna, wieść to smutna,\nHerod spisek knuje.\nNic monarchów nie odstrasza,\ndo Betlejem śpieszą.\nGwiazda Zbawcę im ogłasza,\nnadzieją się cieszą.\nPrzed Maryją stają społem,\nniosą Panu dary.\nPrzed Jezusem biją czołem,\nskładają ofiary.\nTrzykroć szczęśliwi królowie,\nktóż wam nie zazdrości?\nCóż my damy, kto nam powie,\npałając z miłości?\nTak, jak każą nam kapłani,\ndamy dar troisty:\nmodły, pracę niosąc w dani\ni żar serca czysty.\nTo kadzidło, mirrę, złoto\nniesiem, Jezu szczerze.\nCo dajemy Ci z ochotą,\nod nas przyjm w ofierze."
     },
     {
-      "id": "kol-023",
+      "id": "ss-023",
       "title": "Mizerna cicha stajenka licha",
-      "author": "sł. XVIII w.\nmuz. XIX w.",
+      "author": "sł. XVIII w. | muz. XIX w.",
       "lyrics": "Mizerna, cicha, stajenka licha,\nPełna niebieskiej chwały,\nOto leżący, przed nami śpiący\nW promieniach Jezus mały.\nNad Nim Anieli w locie stanęli\nI pochyleni klęczą\nZ włosy złotymi, z skrzydły białymi,\nPod malowaną tęczą.\nWielkie zdziwienie: wszelkie stworzenie,\nCały świat orzeźwiony;\nMądrość Mądrości, Światłość Światłości,\nBóg-Człowiek tu wcielony.\nI oto mnodzy ludzie ubodzy\nRadzi oglądać Pana,\nPełni natchnienia, pewni zbawienia,\nUpadli na kolana."
     },
     {
-      "id": "kol-024",
+      "id": "ss-024",
       "title": "Nie było miejsca dla Ciebie",
-      "author": "sł. XVIII w.\nmuz. XIX w.",
+      "author": "sł. XVIII w. | muz. XIX w.",
       "lyrics": "Nie było miejsca dla Ciebie\nw Betlejem w żadnej gospodzie,\ni narodziłeś się, Jezu,\nw stajni, w ubóstwie i chłodzie.\nNie było miejsca, choć zszedłeś\njako Zbawiciel na Ziemię,\nby wyrwać z czarta niewoli\nnieszczęsne Adama plemię.\nNie było miejsca, choć chciałeś\nludzkość przytulić do łona,\ni podać z krzyża grzesznikom\nzbawcze, skrwawione ramiona.\nNie było miejsca choć szedłeś\nogień miłości zapalić,\ni przez swą mękę najdroższą\nświat od zagłady ocalić.\nGdy liszki mają swe jamy\ni ptaszki swoje gniazdeczka,\ndla Ciebie brakło gospody,\nTyś musiał szukać żłóbeczka.\nA dzisiaj czemu wśród ludzi\ntyle łez, jęków, katuszy?\nBo nie ma miejsca dla Ciebie\nw niejednej człowieczej duszy."
     },
     {
-      "id": "kol-025",
+      "id": "ss-025",
       "title": "Oj maluśki, maluśki...",
-      "author": "sł. XVIII w.\nmuz. XIX w.",
+      "author": "sł. XVIII w. | muz. XIX w.",
       "lyrics": "Oj maluśki, maluśki, maluśki\njako rekawicka,\nalbo li tyz jakoby, jakoby\nkawałecek smycka.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nCy nie lepiej by Tobie, by Tobie\nsiedzieć było w niebie?\nWsak Twój Tatuś kochany, kochany\nnie wyganiał Ciebie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ci zawse słuzyły, słuzyły\nprześlicne anioły.\nA tu lezys sam jeden, sam jeden\njako palec goły.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam pijałeś ceć jakie, ceć jakie\nsłodkie małmazje.\nTu się Twoja gębusia, gębusia\nłez gorskich napije.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam wciornaska wygoda, wygoda,\na tu bieda wsędzie.\nTa Ci teraz dokuca, dokuca,\nta i potem będzie.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam Ty miałeś pościółkę, pościółkę\ni mietkie piernatki.\nTu na to Twej nie stanie, nie stanie\nubozuchnej Matki.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nTam kukiołki jadałeś, jadałeś\nz carnuską i miodem.\nTu się tylko zasilać, zasilać\nmusis samym głodem.\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nHej, co się więc takiego, takiego\nTobie, Panie stało,\nześ się na ten kiepski świat, kiepski świat\nprzychodzić chciało?\nLililililaj, lililaj, lililaj\nalbo:\nŚpiewajmy i grajmy mu,\nmałemu, małemu…\nŚpiewajmy i grajmy mu,\nmałemu, małemu…"
     },
     {
-      "id": "kol-026",
+      "id": "ss-026",
       "title": "Pójdźmy wszyscy do stajenki",
-      "author": "sł. XVIII w.\nmuz. Piotr Studziński",
+      "author": "sł. XVIII w. | muz. Piotr Studziński",
       "lyrics": "Pójdźmy wszyscy do stajenki,\ndo Jezusa i Panienki.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nPowitajmy Maleńkiego\ni Maryję, matkę Jego.\nWitaj, Jezu ukochany,\nod Patryarchów czekany.\nOd Proroków ogłoszony,\nod narodów upragniony.\nOd Proroków ogłoszony,\nod narodów upragniony.\nWitaj, Dziecineczko w żłobie,\nwyznajemy Boga w Tobie.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nCoś się narodził tej nocy,\nbyś nas wyrwał z czarta mocy.\nWitaj, Jezu nam zjawiony,\nwitaj, dwakroć narodzony.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nRaz z Ojca przed wieków wiekiem,\na teraz z Matki człowiekiem.\nKtóż to słyszał takie dziwy?\nTyś człowiek i Bóg prawdziwy.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nTy łączysz w Boskiej Osobie\ndwie natury różne sobie.\nO szczęśliwi pastuszkowie,\nktóż radość waszą wypowie!\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nCzego Ojcowie żądali,\nwyście pierwsi oglądali.\nO Jezu, nasze kochanie,\nczemu nad niebios mieszkanie.\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nPrzekładasz nędzę, ubóstwo,\ni wyniszczasz swoje Bóstwo?\nMiłości to Twojej dzieło\nz miłości początek wzięło.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nByś nas zrównał z Aniołami,\nponiżasz się między nami.\nSpraw to, Jezu, Boskie Dziecię.\nNiech Cię kochamy nad życie.\nNiech miłością odwdzięczamy\nmiłość, której doznawamy.\nNiech miłością odwdzięczamy\nMiłość, której doznawamy.\nŚwięta Panno, Twa przyczyna\nniech nam wyjedna u Syna.\nBy to Jego narodzenie\nzapewniło nam zbawienie.\nBy to Jego narodzenie\nzapewniło nam zbawienie."
     },
     {
-      "id": "kol-027",
+      "id": "ss-027",
       "title": "Przybieżeli do Betlejem pasterze",
-      "author": "sł.???\nmuz. ???",
+      "author": "sł.??? | muz. ???",
       "lyrics": "Przybieżeli do Betlejem pasterze,\ngrając skocznie Dzieciąteczku na lirze.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nOddawali swe ukłony w pokorze\nTobie, z serca ochotnego, o Boże!\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nAnioł Pański sam ogłosił te dziwy,\nktórych oni nie słyszeli, jak żywi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nI Anieli gromadami pilnują,\nPanna czysta wraz z Józefem piastują.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nPoznali Go Mesjaszem być prawym,\nnarodzonym dzisiaj Panem łaskawym.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nMy Go także Bogiem, Zbawcą już znamy\ni z całego serca wszyscy kochamy.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi.\nChwała na wysokości,\nchwała na wysokości,\na pokój na ziemi."
     },
     {
-      "id": "kol-028",
+      "id": "ss-028",
       "title": "Triumfy Króla niebieskiego",
-      "author": "sł. ???\nmuz. ???",
+      "author": "sł. ??? | muz. ???",
       "lyrics": "Triumfy Króla niebieskiego\nZstąpiły z nieba wysokiego.\nPobudziły pasterzów,\nDobytku swego stróżów,\nŚpiewaniem, śpiewaniem, śpiewaniem.\nChwała bądź Bogu w wysokości,\nA ludziom pokój na niskości.\nNarodził się Zbawiciel,\nDusz ludzkich Odkupiciel,\nNa ziemi, na ziemi, na ziemi.\nZrodziła Maryja Dziewica\nWiecznego Boga bez rodzica,\nBy nas z piekła wybawił,\nA w niebieskich postawił.\nPałacach, pałacach, pałacach.\nPasterze w podziwieniu stają,\nTriumfu przyczynę badają,\nCo się nowego dzieje,\nŻe tak światłość jaśnieje.\nNie wiedzą, nie wiedzą, nie wiedzą.\nŻe to Bóg, gdy się dowiedzieli,\nSwej trzody w polu odbieżeli,\nŚpiesząc na powitanie\nDo Betlejemskiej stajni.\nDzieciątka, Dzieciątka, Dzieciątka.\nNiebieskim światłem oświeceni,\npokornie przed nim uniżeni,\nBogiem Go być prawdziwym\nz serca afektem żywym.\nWyznają, wyznają, wyznają.\nI które mieli z sobą dary\nDzieciątku dają na ofiary:\nprzyjmij, o Narodzony\nnas i dar przyniesiony.\nZ ochotą, z ochotą, z ochotą."
     },
     {
-      "id": "kol-029",
+      "id": "ss-029",
       "title": "W dzień Bożego Narodzenia",
-      "author": "sł. tradycyjne\nmuz. tradycyjna",
+      "author": "sł. tradycyjne | muz. tradycyjna",
       "lyrics": "W dzień Bożego Narodzenia,\nRadość wszelkiego stworzenia\nAniołowie się radują,\nJezusowi wyśpiewują, wyśpiewują.\nNiesłychana to nowina,\nPanna porodziła Syna,\nSyna Jednorodzonego,\nBoga Ojca niebieskiego, niebieskiego.\nTo Anieli oznajmują,\nDo Betlejem pokazują,\nGdzie narodził się Zbawiciel,\nWszego świata Odkupiciel, Odkupiciel.\nGdy pasterze usłyszeli,\nDo stajenki pobieżeli,\nDzieciąteczku się kłaniają,\nPodarunki oddawają, oddawają.\nChwała Bogu niechaj będzie\nW niebie i na ziemi, wszędzie\nZ Aniołami się radujmy,\nJezusowi wyśpiewujmy, wyśpiewujmy"
     },
     {
-      "id": "kol-030",
+      "id": "ss-030",
       "title": "W żłobie leży",
-      "author": "sł. ks. Piotr Skarga\nmuz. XVIII w.",
+      "author": "sł. ks. Piotr Skarga | muz. XVIII w.",
       "lyrics": "W żłobie leży, któż pobieży\nkolędować Małemu.\nJezusowi Chrystusowi\ndziś do nas zesłanemu?\nPastuszkowie przybywajcie,\njemu wdzięcznie przygrywajcie,\njako Panu swojemu.\nMy zaś sami z piosneczkami\nza wami pośpieszymy.\nA tak tego Maleńkiego\nniech wszyscy zobaczymy.\nJak ubogo narodzony,\npłacze w stajni położony,\nwięc Go dziś ucieszymy.\nNaprzód tedy, niechaj wszędy\nzabrzmi świat w wesołości.\nŻe posłany, nam jest dany\nEmanuel w niskości.\nJego tedy przywitajmy,\nz Aniołami zaśpiewajmy:\n„Chwała na wysokości”.\nWitaj, Panie, cóż się stanie\nże rozkosze niebieskie,\nopuściłeś, a zstąpiłeś\nna te niskości ziemskie.\n„Miłość moja to sprawiła,\nby człowieka wywyższyła,\npod nieba empirejskie”."
     },
     {
-      "id": "kol-031",
+      "id": "ss-031",
       "title": "Wesołą nowinę",
-      "author": "sł. tradycyjne\nmuz. tradycyjna",
+      "author": "sł. tradycyjne | muz. tradycyjna",
       "lyrics": "Wesołą nowinę, bracia, słuchajcie.\nNiebieską Dziecinę ze mną witajcie.\nJak miła ta nowina?\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nBogu chwałę wznosząc na wysokości\npokój ludziom głoszą duchy świętości.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nPanna nam powiła Boskie Dzieciątko\npokłonem uczciła to Niemowlątko.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nKtórego zrodziła, Bogiem uznała\ni panną jak była, Panną została.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nUbodzy pasterze pierwsi przybyli\nJezusowi Panu pokłon złożyli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli.\nJak miła ta nowina?e\nMów gdzie jest ta dziecina\nbyśmy tam pobieżeli i ujrzeli."
     },
     {
-      "id": "kol-032",
+      "id": "ss-032",
       "title": "Wśród nocnej ciszy",
-      "author": "sł. XVIII w.\nmuz. XIX w.",
+      "author": "sł. XVIII w. | muz. XIX w.",
       "lyrics": "Wśród nocnej ciszy,\ngłos się rozchodzi.\nWstańcie pasterze,\nBóg się wam rodzi!\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nCzym prędzej się wybierajcie,\ndo Betlejem pospieszajcie,\nprzywitać Pana.\nPoszli, znaleźli\nDzieciątko w żłobie.\nZ wszystkimi znaki,\ndanymi sobie.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\nJako Bogu cześć Mu dali,\na witając zawołali,\nz wielkiej radości.\n„Ach witaj, Zbawco;\nz dawna żądany.\nTyle tysięcy lat\nwyglądany!\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nNa Ciebie króle, prorocy,\nczekali, a Tyś tej nocy -\nnam się objawił.\nI my czekamy\nna Ciebie, Pana.\nA skoro przyjdziesz\nna głos kapłana.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina.\nPadniemy na twarz przed Tobą,\nwierząc, żeś jest pod osłoną,\nchleba i wina."
     }
   ]
